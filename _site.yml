@@ -19,7 +19,8 @@ navbar:
     - text: "Contact me"
       icon: glyphicon-send
       href: mailto:tran.dat@leg.state.fl.us
-    - icon: fa-google
+    - text: "My Google Scholar"
+      icon: fa-google
       href: https://scholar.google.com/citations?hl=en&user=auA2Qj8AAAAJ&view_op=list_works&sortby=pubdate 
 # output:
 #   html_document:
