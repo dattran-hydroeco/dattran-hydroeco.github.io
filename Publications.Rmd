@@ -35,7 +35,7 @@ text-align: justify}
 
 #### 7.	**Tran, D.Q.**, Kovacs, K & Wallander, S. 2019. [Long-run optimization of landscape-level irrigation through managed aquifer recharge or expanded surface reservoirs](https://doi.org/10.1016/j.jhydrol.2019.124220). Journal of Hydrology 579 (2019), 1-12.
 
-#### 6.	**Tran, D.Q.** & Kurkalova, L.A. 2019. [Persistence in tillage decisions: aggregate data analysis]. International Soil and Water Conservation Research 7 (2), 109-118.
+#### 6.	**Tran, D.Q.** & Kurkalova, L.A. 2019. [Persistence in tillage decisions: aggregate data analysis](https://doi.org/10.1016/j.iswcr.2019.03.002). International Soil and Water Conservation Research 7 (2), 109-118.
 
 #### 5.	Huynh, V. T. M., Avtar, M. R., Kumar, P., **Tran, D.Q.**, Tran, T. V., Behra, H. C & Masaaki, K. 2019. [Groundwater Quality Assessment using Fuzzy-AHP in An Giang province of Vietnam](https://doi.org/10.1016/j.iswcr.2019.03.002). Geosciences 9 (330), 1-23.
 
