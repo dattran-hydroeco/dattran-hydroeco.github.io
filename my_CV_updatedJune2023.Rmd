@@ -1,0 +1,7 @@
+---
+title: ""
+output: html_document
+---
+
+## [*Link to my CV*](https://github.com/dattran-hydroeco/Dat-Tran-Website/blob/main/1_Dat%20_CV_%20updated_06272023.pdf)
+### Last update: June 02, 2023

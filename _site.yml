@@ -1,0 +1,32 @@
+name: "Dat Q. Tran"
+navbar:
+  title: "Dat Tran"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "My CV"
+      href: my_CV_updatedJune2023.html
+    - text: "Publications"
+      href: MyPublications.html
+    - text: "Projects"
+      href: My_projects.html
+    - text: "Resources/Tools"
+      href: Links.html
+
+
+  right:
+    - text: "Contact me"
+      icon: glyphicon-send
+      href: mailto:tran.dat@leg.state.fl.us
+    - icon: fa-google
+      href: https://scholar.google.com/citations?hl=en&user=auA2Qj8AAAAJ&view_op=list_works&sortby=pubdate 
+output:
+  html_document:
+    theme: paper
+    highlight: textmate
+    css: style.css
+    includes:
+       in_header: analytics_tracking.html
+      
+# output_dir: "docs"
