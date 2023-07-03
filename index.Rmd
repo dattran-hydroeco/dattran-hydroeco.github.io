@@ -7,7 +7,7 @@ output: html_document
 #
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<img src="images/My_profile_pic.jpg" style="width:30%; border:5px solid; margin-right: 50px" align="left">
+<img src="images/My_profile_pic_resized.jpg" style="width:30%; border:5px solid; margin-right: 50px" align="left">
 
 <style>
 body {
