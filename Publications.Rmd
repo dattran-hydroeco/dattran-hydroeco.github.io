@@ -11,7 +11,7 @@ text-align: justify}
 
 ####
 ##### **Published/Accepted Papers**
-18). Ali, A.M. A., **Tran, D.Q.**, Kovacs, K & Dahlke, H. [Hydro-economic modeling of managed aquifer recharge in the lower Mississippi](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.13141?af=R). Journal of the American Water Resources Association. Accepted. 
+18). Ali, A.M. A., **Tran, D.Q.**, Kovacs, K & Dahlke, H. [Hydro-economic modeling of managed aquifer recharge in the lower Mississippi](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.13141?af=R). Journal of the American Water Resources Association. 00 (0)[accepted]: 1– 22 
 
 17). Nemati, M., **Tran, D.Q** & Schwabe, K. 2023. [Residential Water Conservation and the Rebound Effects: A Temporal Decomposition and Investigation](https://doi.org/10.1029/2022WR032169). Water Resources Research 59 (4), 1-18.  
 
