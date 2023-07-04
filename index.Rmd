@@ -1,5 +1,5 @@
 ---
-title: "Welcome To My Website"
+title: ""
 output: html_document
 ---
 
@@ -7,11 +7,11 @@ output: html_document
 #
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<img src="images/My_profile_pic_resized.jpg" style="width:30%; border:5px solid; margin-right: 50px" align="left">
+<img src="images/My_profile_pic_resized.jpg" style="width:45%; border:5px solid; margin-right: 40px" align="left">
 
 <style>
 body {
-text-align: left}
+text-align: justify}
 </style>
 
 <!-- <style> -->
@@ -21,38 +21,27 @@ text-align: left}
 <!-- font-family: times new roman} -->
 <!-- </style> -->
 
-###
-###
-###
-###
-#### Hello, this is Dat. Currently, I work as an economist in the Florida Legislature, Office of Economic and Demographic Research (EDR). Before joining EDR, I was a post-doc at University of California, Riverside (2020-2021), University of Arkansas, Fayetteville (2018-2020), and North Carolina A&T State University (2017). 
-###
-###
-###
-###
-###
-###
-###
-###
 
-#### **My research interests** can be broken down into four main categories: *technology adoption*, *resource management policies*, *interactions between hydro-biophysical and economic system*, and *economic behavior under common pool resource systems*. I use theoretical, empirical, and numerical approaches to study these topics. Although, I have to admit that with the availability of large geo-referenced datasets, I increasingly spend time on machine learning, data analytic applications together with reduced form econometric analysis. Being an engineer by training, I am also involved in several interdisciplinary papers. Specifically, I collaborate extensively with civil engineers and hydrologists.
+Hello, this is Dat. Currently, I work as an economist in the Florida Legislature, Office of Economic and Demographic Research (EDR). Before joining EDR, I was a post-doc at University of California, Riverside (2020-2021), University of Arkansas, Fayetteville (2018-2020), and North Carolina A&T State University (2017). 
 
-#### 
 
-<!-- ### **Technology Adoption** -->
+**My research interests** can be broken down into four main categories: **technology adoption**, **resource management policies**, **interactions between hydro-biophysical and economic system**, and **economic behavior under common pool resource systems**. I use theoretical, empirical, and numerical approaches to study these topics. Although, I have to admit that with the availability of large geo-referenced datasets, I increasingly spend time on machine learning, data analytic applications together with reduced form econometric analysis. Being an engineer by training, I am also involved in several interdisciplinary papers. Specifically, I collaborate extensively with civil engineers and hydrologists.
+
+<!-- ####  -->
+<!-- #### **Technology Adoption** -->
 <!-- ### -->
 <!-- ### -->
 
 <!-- ### -->
-<!-- ### **Resource Management Policies** -->
+<!-- #### **Resource Management Policies** -->
 <!-- ### -->
 
 <!-- ### -->
-<!-- ### **Interactions Between Hydro-Biophysical and Economic System** -->
+<!-- #### **Interactions Between Hydro-Biophysical and Economic System** -->
 <!-- ### -->
 
 <!-- ### -->
-<!-- ### **Economic Behavior Under Common Pool Resource Systems** -->
+<!-- #### **Economic Behavior Under Common Pool Resource Systems** -->
 <!-- ### -->
 
 
