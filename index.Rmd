@@ -11,7 +11,7 @@ output: html_document
 
 <style>
 body {
-text-align: justify}
+text-align: left}
 </style>
 
 <!-- <style> -->
@@ -25,8 +25,7 @@ text-align: justify}
 ###
 ###
 ###
-#### Hello, this is Dat. Currently, I work as an economist in the Florida Legislature, Office of Economic and Demographic Research (EDR). 
-#### Before joining EDR, I was a post-doc at University of California, Riverside (2020-2021), University of Arkansas, Fayetteville (2018-2020), and North Carolina A&T State University (2017). 
+#### Hello, this is Dat. Currently, I work as an economist in the Florida Legislature, Office of Economic and Demographic Research (EDR). Before joining EDR, I was a post-doc at University of California, Riverside (2020-2021), University of Arkansas, Fayetteville (2018-2020), and North Carolina A&T State University (2017). 
 ###
 ###
 ###
