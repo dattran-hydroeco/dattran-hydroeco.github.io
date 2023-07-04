@@ -5,12 +5,12 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "Projects"
+      href: My_projects.html
     - text: "My CV"
       href: my_CV_updatedJune2023.html
     - text: "Publications"
       href: Publications.html
-    - text: "Projects"
-      href: My_projects.html
     - text: "Resources/Tools"
       href: Links.html
 
