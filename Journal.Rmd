@@ -13,15 +13,23 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
-##
-##
-### **Blog**
-### 
-### 
-<!-- #### **Can Managed Aquifer Recharge (MAR) Solve Groundwater Depletion Issue?** -->
 
-<!-- May | 05 | 23 Last compiled: `r Sys.Date()` -->
+#### *About this Blog: I write about **"my opinions"**. No official agency endorsement should be inferred.*
+###
+###
+###
 
-<!-- Groundwater depletion is  -->
+<!-- # Agricultural Carbon Market  -->
+
+<!-- 2020 | 7 | 16 Last compiled: `r Sys.Date()` -->
+
+<!-- **Challenges**: Do farmers use conservation practices continuously? -->
+
+<!-- **Opportunities**: -->
+
+
+<!-- # Managed Aquifer Recharge -->
+
+
 
 
