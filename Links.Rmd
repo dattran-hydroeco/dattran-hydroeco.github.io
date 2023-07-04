@@ -1,7 +1,9 @@
 ---
-title: "Resources/Tools"
+title: ""
 output: html_document
 ---
+
+### **Resources/Tools**
 
 <!-- ### R and R-Studio -->
 

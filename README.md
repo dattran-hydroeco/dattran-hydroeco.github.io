@@ -9,3 +9,4 @@ install.packages('xfun')
 4. Create website: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site 
 https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 5. In "_site_yml", make sure where to put HTML files
+6. icon package devtools::install_github("ropenscilabs/icon")

@@ -1,5 +1,5 @@
 ---
-title: "My Blog"
+title: ""
 output:
   html_document:
     toc: true
@@ -15,11 +15,13 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 ##
 ##
-##
-#### **Can Managed Aquifer Recharge (MAR) Solve Groundwater Depletion Issue?**
+### **Blog**
+### 
+### 
+<!-- #### **Can Managed Aquifer Recharge (MAR) Solve Groundwater Depletion Issue?** -->
 
-May | 05 | 23 Last compiled: `r Sys.Date()`
+<!-- May | 05 | 23 Last compiled: `r Sys.Date()` -->
 
-Groundwater depletion is 
+<!-- Groundwater depletion is  -->
 
 

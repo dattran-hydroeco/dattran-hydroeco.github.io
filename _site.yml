@@ -13,6 +13,8 @@ navbar:
       href: my_CV_updatedJune2023.html
     - text: "Resources/Tools"
       href: Links.html
+    - text: "Blog"
+      href: Journal.html
 
 
   right:
