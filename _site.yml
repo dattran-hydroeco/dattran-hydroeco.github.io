@@ -7,10 +7,10 @@ navbar:
       href: index.html
     - text: "Projects"
       href: My_projects.html
-    - text: "My CV"
-      href: my_CV_updatedJune2023.html
     - text: "Publications"
       href: Publications.html
+    - text: "CV"
+      href: my_CV_updatedJune2023.html
     - text: "Resources/Tools"
       href: Links.html
 
@@ -19,7 +19,7 @@ navbar:
     - text: "Contact me"
       icon: glyphicon-send
       href: mailto:tran.dat@leg.state.fl.us
-    - text: "My Google Scholar"
+    - text: "Google Scholar"
       icon: fa-google
       href: https://scholar.google.com/citations?hl=en&user=auA2Qj8AAAAJ&view_op=list_works&sortby=pubdate 
 # output:
