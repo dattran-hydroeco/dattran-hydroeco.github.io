@@ -12,4 +12,4 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a
 6. icon package devtools::install_github("ropenscilabs/icon")
 7. Recommend using Github Desktop software.
   7.1. Clone the repository using Github
-  7.2 In RStudio, select the Open Project and then select the repository you have just opened in Github
+  7.2 In RStudio, select the Open Project and then select the repository you have just opened in Github. The R file should be placed in Github folder in your computer --something like: "dattran-hydroeco.github.io.Rproj" in C:\Users\Tran.Dat\Documents\GitHub\dattran-hydroeco.github.io\dattran-hydroeco.github.io 
