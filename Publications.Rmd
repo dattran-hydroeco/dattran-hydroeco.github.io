@@ -17,9 +17,9 @@ text-align: justify}
 
 16). **Tran, D. Q.**, Borisova, T & Beggs, K. 2023. [The Cost of Alternative Water Supply and Efficiency Options under Uncertainty: An Application of Modern Portfolio Theory and Chebyshev’s Inequality](https://doi.org/10.3390/earth4010003). Earth 2023, 4(1), 40-65.
 
-15). **Tran, D. Q.** 2023. [Annual assessment of Florida’s water resources: supply and demand. In: 2023 Annual assessment of Florida's water resources and conservation lands](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://edr.state.fl.us/Content/natural-resources/2023_AnnualAssessmentWaterResources_Chapter3.pdf). Office of Economic and Demographic Research, Florida Legislature, Tallahassee, Florida.
+15). **Tran, D. Q.** 2023. [Annual assessment of Florida’s water resources: supply and demand. In: 2023 Annual assessment of Florida's water resources and conservation lands](http://edr.state.fl.us/Content/natural-resources/2023_AnnualAssessmentWaterResources_Chapter3.pdf). Office of Economic and Demographic Research, Florida Legislature, Tallahassee, Florida.
 
-14). **Tran, D. Q.**, Beggs, K., Cosgray, C & MacPherson, D. 2022. Volume 2: [Annual Assessment of Florida's Water Resources: Supply, Demand, and Quality](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://edr.state.fl.us/Content/natural-resources/LandandWaterAnnualAssessment_2022Edition_Volume2.pdf). Office of Economic and Demographic Research, Florida Legislature, Tallahassee, Florida.
+14). **Tran, D. Q.**, Beggs, K., Cosgray, C & MacPherson, D. 2022. Volume 2: [Annual Assessment of Florida's Water Resources: Supply, Demand, and Quality](http://edr.state.fl.us/Content/natural-resources/LandandWaterAnnualAssessment_2022Edition_Volume2.pdf). Office of Economic and Demographic Research, Florida Legislature, Tallahassee, Florida.
 
 13). Nemati, M & **Tran, D. Q.** 2022. [The impact of COVID-19 on urban water consumption in the United States](https://doi.org/10.3390/w14193096). Water. 14(19), 3096.
 
