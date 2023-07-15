@@ -52,13 +52,13 @@ text-align: justify}
 
 10). **Tran, D. Q** & Kurkalova, L.A. Testing for complementary between the use of continuous no-till and cover crops: an application of Entropy and Bayesian approaches. *Revise and resubmit*.
 
-9). Pathak, S., Wang H., **Tran, D. Q** & Adusumilli, N., C. Quantifying the adoption dynamics of sustainable agricultural practices in the Mississippi Delta region. *In review*. 
+9). Kovacs, K., **Tran, D. Q** & Durand-Morat, A. Managing water and long run aquifer abundance with climate uncertainty. *Revise and resubmit*. 
 
-8). Kovacs, K., **Tran, D. Q** & Durand-Morat, A. Managing water and long run aquifer abundance with climate uncertainty. *In review*. 
+8). Pathak, S., Wang H., **Tran, D. Q** & Adusumilli, N., C. Quantifying the adoption dynamics of sustainable agricultural practices in the Mississippi Delta region. *In review*. 
 
 7). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *In review*.
 
-6). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  Saltwater Intrusion Risks in the Mekong Delta under Uncertainty. *In review*. 
+6). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  Modeling Saltwater Intrusion Risk in the Presence of Uncertainty. *In review*. [Reprint version can be accessed here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510877). 
 
 5). **Tran, D. Q.** & Borisova, T. Effects of future climatic and socioeconomic changes on Florida water demand. *In preparation*.
 
