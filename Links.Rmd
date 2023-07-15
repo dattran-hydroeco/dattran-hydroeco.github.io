@@ -1,9 +1,23 @@
 ---
 title: ""
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 3
+    #code_folding: hide
 ---
 
-### **Resources/Tools**
+## 
+
+# Florida's Water Use Projection (2023 Ed)
+[Here is a simple, pilot, interactive web-based showing Florida's water use projection for 2020-2040](https://dattran-hydroeco.shinyapps.io/FL_WR_2023/). The app was built using Shiny package in [R](https://www.r-project.org/about.html). The projection comes from the Florida Department of Environmental Protection (DEP). [More information on this projection can be found here](http://edr.state.fl.us/Content/natural-resources/2023_AnnualAssessmentWaterResources_Chapter3.pdf) or [please contact me](https://dattran-hydroeco.github.io/index.html)
+
+# Florida's Water Use Projection: A Machine Learning Approach
+This approach integrates a K-Means Clustering and Multiple Linear Regression to forecast sectoral water use for Florida during 2020-2040. [More information on this projection can be found here](http://edr.state.fl.us/Content/natural-resources/2023_AnnualAssessmentWaterResources_Chapter3.pdf) or [please contact me](https://dattran-hydroeco.github.io/index.html)
+
 
 <!-- ### R and R-Studio -->
 
