@@ -69,6 +69,3 @@ text-align: justify}
 2). **Tran, D.Q.** & Kurkalova, L.A. Entropy approach: an application to the estimation of the changes in the dynamics of tillage choice. *In preparation*. 
 
 1). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *In preparation*.
-
-
-

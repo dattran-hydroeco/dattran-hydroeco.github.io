@@ -13,8 +13,8 @@
 
 <title>Publications.knit</title>
 
-<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -62,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -82,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -139,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -172,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -181,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -234,7 +235,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -302,31 +303,99 @@ text-align: justify}
 <h4></h4>
 <div id="publishedaccepted-papers" class="section level5">
 <h5><strong>Published/Accepted Papers</strong></h5>
-<p>18). Ali, A.M. A., <strong>Tran, D.Q.</strong>, Kovacs, K &amp; Dahlke, H. <a href="https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.13141?af=R">Hydro-economic modeling of managed aquifer recharge in the lower Mississippi</a>. Journal of the American Water Resources Association. 00 (0)[accepted]: 1– 22</p>
-<p>17). Nemati, M., <strong>Tran, D.Q</strong> &amp; Schwabe, K. 2023. <a href="https://doi.org/10.1029/2022WR032169">Residential Water Conservation and the Rebound Effects: A Temporal Decomposition and Investigation</a>. Water Resources Research 59 (4), 1-18.</p>
-<p>16). <strong>Tran, D. Q.</strong>, Borisova, T &amp; Beggs, K. 2023. <a href="https://doi.org/10.3390/earth4010003">The Cost of Alternative Water Supply and Efficiency Options under Uncertainty: An Application of Modern Portfolio Theory and Chebyshev’s Inequality</a>. Earth 2023, 4(1), 40-65.</p>
-<p>15). <strong>Tran, D. Q.</strong> 2023. <a href="http://edr.state.fl.us/Content/natural-resources/2023_AnnualAssessmentWaterResources_Chapter3.pdf">Annual assessment of Florida’s water resources: supply and demand. In: 2023 Annual assessment of Florida’s water resources and conservation lands</a>. Office of Economic and Demographic Research, Florida Legislature, Tallahassee, Florida.</p>
-<p>14). <strong>Tran, D. Q.</strong>, Beggs, K., Cosgray, C &amp; MacPherson, D. 2022. Volume 2: <a href="http://edr.state.fl.us/Content/natural-resources/LandandWaterAnnualAssessment_2022Edition_Volume2.pdf">Annual Assessment of Florida’s Water Resources: Supply, Demand, and Quality</a>. Office of Economic and Demographic Research, Florida Legislature, Tallahassee, Florida.</p>
-<p>13). Nemati, M &amp; <strong>Tran, D. Q.</strong> 2022. <a href="https://doi.org/10.3390/w14193096">The impact of COVID-19 on urban water consumption in the United States</a>. Water. 14(19), 3096.</p>
-<p>12). Bairagi, S.K., Mishra, A. K &amp; <strong>Tran, D. Q.</strong> 2021. <a href="https://doi.org/10.1002/jid.3611">Disentangling gender-differentiated impact on food security and poverty: empirical evidence from Vietnam</a>. Journal of International Development 34(3), 493– 511.</p>
-<p>11). Babcock, B., Nemati, M., &amp; <strong>Tran, D. Q.</strong> (2021). <a href="https://www.researchgate.net/publication/371867520_Will_citrus_survive_SGMA_Understanding_California_grower_crop_choice#fullTextFileContent">Will citrus survive SGMA? Understanding California grower crop choice</a>.Citrograph, 12(4).32–37.</p>
-<p>10). <strong>Tran, D.Q.</strong> &amp; Kovacs, K. 2021. <a href="https://doi.org/10.1029/2021WR030114">Climate uncertainty and optimal groundwater augmentation. Water Resources Research</a>. 57 (9), 1-19.</p>
-<p>9). <strong>Tran, D.Q.</strong>, Kovacs, K &amp; West, G. 2020. <a href="https://doi.org/10.1016/j.agwat.2020.106337">Spatial economic predictions of managed aquifer recharge for an agricultural landscape</a>. Agricultural Water Management. 66 (4), 666-682.</p>
-<p>8). <strong>Tran, D.Q.</strong>, Kovacs, K &amp; Wallander, S. 2020. <a href="https://link.springer.com/article/10.1007/s00267-020-01329-x">Water conservation with managed aquifer recharge under increased drought risk</a>. Environmental Management. 241, 1-11.</p>
-<p>7). <strong>Tran, D.Q.</strong>, Kovacs, K &amp; Wallander, S. 2019. <a href="https://doi.org/10.1016/j.jhydrol.2019.124220">Long-run optimization of landscape-level irrigation through managed aquifer recharge or expanded surface reservoirs</a>. Journal of Hydrology 579 (2019), 1-12.</p>
-<p>6). <strong>Tran, D.Q.</strong> &amp; Kurkalova, L.A. 2019. <a href="https://doi.org/10.1016/j.iswcr.2019.03.002">Persistence in tillage decisions: aggregate data analysis</a>. International Soil and Water Conservation Research 7 (2), 109-118.</p>
-<p>5). Huynh, V. T. M., Avtar, M. R., Kumar, P., <strong>Tran, D.Q.</strong>, Tran, T. V., Behra, H. C &amp; Masaaki, K. 2019. <a href="https://doi.org/10.1016/j.iswcr.2019.03.002">Groundwater Quality Assessment using Fuzzy-AHP in An Giang province of Vietnam</a>. Geosciences 9 (330), 1-23.</p>
-<p>4). Huynh, V. T. M., Masaaki, K., Tran, T. V., <strong>Tran, D.Q.</strong>, Le, K. N., Avtar, M. R &amp; Osaki, M. 2019. <a href="https://doi.org/10.3390/w11051010">Effects of Multi-Dike Protection Systems on Surface Water Quality in the Vietnamese Mekong Delta</a>. Water 11 (1010), 1-23.</p>
-<p>3). Kurkalova, L.A &amp; <strong>Tran, D.Q.</strong><a href="https://link.springer.com/chapter/10.1007/978-3-319-74536-7_8">“Impact of stover collection on Iowa land use.”</a> In: Li, R, and Monti, A (Eds.), Land Allocation for Biomass: Challenges and Opportunities, 2018.</p>
-<p>2). Le, K. N ., Manoj K. J., Jeong, J., Gassman, P, W., Reyes, M, R., Doro, L., <strong>Tran, D.Q.</strong> &amp; Hok, L. 2018. <a href="https://doi.org/10.3390/su10082665">Evaluation of long-term SOC and crop productivity within conservation systems using GFDL CM2.1 and EPIC</a>. Sustainability 10 (2665), 1-18.</p>
-<p>1). Kurkalova, L.A. &amp; <strong>Tran, D.Q.</strong> 2017. <a href="https://www.jswconline.org/content/72/2/131">Is the use of no-till continuous or rotational? Quantifying tillage dynamics from time-ordered spatially aggregated data</a>. Journal of Soil and Water Conservation, 72(2), 131-138.</p>
+<p>18). Ali, A.M. A., <strong>Tran, D.Q.</strong>, Kovacs, K &amp;
+Dahlke, H. <a
+href="https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.13141?af=R">Hydro-economic
+modeling of managed aquifer recharge in the lower Mississippi</a>.
+Journal of the American Water Resources Association. 00 (0)[accepted]:
+1– 22</p>
+<p>17). Nemati, M., <strong>Tran, D.Q</strong> &amp; Schwabe, K. 2023.
+<a href="https://doi.org/10.1029/2022WR032169">Residential Water
+Conservation and the Rebound Effects: A Temporal Decomposition and
+Investigation</a>. Water Resources Research 59 (4), 1-18.</p>
+<p>16). <strong>Tran, D. Q.</strong>, Borisova, T &amp; Beggs, K. 2023.
+<a href="https://doi.org/10.3390/earth4010003">The Cost of Alternative
+Water Supply and Efficiency Options under Uncertainty: An Application of
+Modern Portfolio Theory and Chebyshev’s Inequality</a>. Earth 2023,
+4(1), 40-65.</p>
+<p>15). <strong>Tran, D. Q.</strong> 2023. <a
+href="http://edr.state.fl.us/Content/natural-resources/2023_AnnualAssessmentWaterResources_Chapter3.pdf">Annual
+assessment of Florida’s water resources: supply and demand. In: 2023
+Annual assessment of Florida’s water resources and conservation
+lands</a>. Office of Economic and Demographic Research, Florida
+Legislature, Tallahassee, Florida.</p>
+<p>14). <strong>Tran, D. Q.</strong>, Beggs, K., Cosgray, C &amp;
+MacPherson, D. 2022. Volume 2: <a
+href="http://edr.state.fl.us/Content/natural-resources/LandandWaterAnnualAssessment_2022Edition_Volume2.pdf">Annual
+Assessment of Florida’s Water Resources: Supply, Demand, and
+Quality</a>. Office of Economic and Demographic Research, Florida
+Legislature, Tallahassee, Florida.</p>
+<p>13). Nemati, M &amp; <strong>Tran, D. Q.</strong> 2022. <a
+href="https://doi.org/10.3390/w14193096">The impact of COVID-19 on urban
+water consumption in the United States</a>. Water. 14(19), 3096.</p>
+<p>12). Bairagi, S.K., Mishra, A. K &amp; <strong>Tran, D. Q.</strong>
+2021. <a href="https://doi.org/10.1002/jid.3611">Disentangling
+gender-differentiated impact on food security and poverty: empirical
+evidence from Vietnam</a>. Journal of International Development 34(3),
+493– 511.</p>
+<p>11). Babcock, B., Nemati, M., &amp; <strong>Tran, D. Q.</strong>
+(2021). <a
+href="https://www.researchgate.net/publication/371867520_Will_citrus_survive_SGMA_Understanding_California_grower_crop_choice#fullTextFileContent">Will
+citrus survive SGMA? Understanding California grower crop
+choice</a>.Citrograph, 12(4).32–37.</p>
+<p>10). <strong>Tran, D.Q.</strong> &amp; Kovacs, K. 2021. <a
+href="https://doi.org/10.1029/2021WR030114">Climate uncertainty and
+optimal groundwater augmentation. Water Resources Research</a>. 57 (9),
+1-19.</p>
+<p>9). <strong>Tran, D.Q.</strong>, Kovacs, K &amp; West, G. 2020. <a
+href="https://doi.org/10.1016/j.agwat.2020.106337">Spatial economic
+predictions of managed aquifer recharge for an agricultural
+landscape</a>. Agricultural Water Management. 66 (4), 666-682.</p>
+<p>8). <strong>Tran, D.Q.</strong>, Kovacs, K &amp; Wallander, S. 2020.
+<a
+href="https://link.springer.com/article/10.1007/s00267-020-01329-x">Water
+conservation with managed aquifer recharge under increased drought
+risk</a>. Environmental Management. 241, 1-11.</p>
+<p>7). <strong>Tran, D.Q.</strong>, Kovacs, K &amp; Wallander, S. 2019.
+<a href="https://doi.org/10.1016/j.jhydrol.2019.124220">Long-run
+optimization of landscape-level irrigation through managed aquifer
+recharge or expanded surface reservoirs</a>. Journal of Hydrology 579
+(2019), 1-12.</p>
+<p>6). <strong>Tran, D.Q.</strong> &amp; Kurkalova, L.A. 2019. <a
+href="https://doi.org/10.1016/j.iswcr.2019.03.002">Persistence in
+tillage decisions: aggregate data analysis</a>. International Soil and
+Water Conservation Research 7 (2), 109-118.</p>
+<p>5). Huynh, V. T. M., Avtar, M. R., Kumar, P., <strong>Tran,
+D.Q.</strong>, Tran, T. V., Behra, H. C &amp; Masaaki, K. 2019. <a
+href="https://doi.org/10.1016/j.iswcr.2019.03.002">Groundwater Quality
+Assessment using Fuzzy-AHP in An Giang province of Vietnam</a>.
+Geosciences 9 (330), 1-23.</p>
+<p>4). Huynh, V. T. M., Masaaki, K., Tran, T. V., <strong>Tran,
+D.Q.</strong>, Le, K. N., Avtar, M. R &amp; Osaki, M. 2019. <a
+href="https://doi.org/10.3390/w11051010">Effects of Multi-Dike
+Protection Systems on Surface Water Quality in the Vietnamese Mekong
+Delta</a>. Water 11 (1010), 1-23.</p>
+<p>3). Kurkalova, L.A &amp; <strong>Tran, D.Q.</strong><a
+href="https://link.springer.com/chapter/10.1007/978-3-319-74536-7_8">“Impact
+of stover collection on Iowa land use.”</a> In: Li, R, and Monti, A
+(Eds.), Land Allocation for Biomass: Challenges and Opportunities,
+2018.</p>
+<p>2). Le, K. N ., Manoj K. J., Jeong, J., Gassman, P, W., Reyes, M, R.,
+Doro, L., <strong>Tran, D.Q.</strong> &amp; Hok, L. 2018. <a
+href="https://doi.org/10.3390/su10082665">Evaluation of long-term SOC
+and crop productivity within conservation systems using GFDL CM2.1 and
+EPIC</a>. Sustainability 10 (2665), 1-18.</p>
+<p>1). Kurkalova, L.A. &amp; <strong>Tran, D.Q.</strong> 2017. <a
+href="https://www.jswconline.org/content/72/2/131">Is the use of no-till
+continuous or rotational? Quantifying tillage dynamics from time-ordered
+spatially aggregated data</a>. Journal of Soil and Water Conservation,
+72(2), 131-138.</p>
 </div>
 <div id="section-1" class="section level5">
 <h5></h5>
 </div>
 <div id="papers-in-review-and-preparation" class="section level5">
 <h5><strong>Papers in Review and Preparation</strong></h5>
-<<<<<<< HEAD
 <p>10). <strong>Tran, D. Q</strong> &amp; Kurkalova, L.A. Testing for
 complementary between the use of continuous no-till and cover crops: an
 application of Entropy and Bayesian approaches. <em>Revise and
@@ -363,18 +432,6 @@ dynamics of tillage choice. <em>In preparation</em>.</p>
 <p>1). <strong>Tran, D.Q.</strong> &amp; Kurkalova, L.A. Cost of
 continuous conservation tillage: an application of Network Flow. <em>In
 preparation</em>.</p>
-=======
-<p>10). <strong>Tran, D. Q</strong> &amp; Kurkalova, L.A. Testing for complementary between the use of continuous no-till and cover crops: an application of Entropy and Bayesian approaches. <em>Revise and resubmit</em>.</p>
-<p>9). Pathak, S., Wang H., <strong>Tran, D. Q</strong> &amp; Adusumilli, N., C. Quantifying the adoption dynamics of sustainable agricultural practices in the Mississippi Delta region. <em>In review</em>.</p>
-<p>8). Kovacs, K., <strong>Tran, D. Q</strong> &amp; Durand-Morat, A. Managing water and long run aquifer abundance with climate uncertainty. <em>In review</em>.</p>
-<p>7). Babcock, B., Nemati, M &amp; <strong>Tran, D. Q</strong>. Estimation of supply elasticities for non-exchange traded commodities. <em>In review</em>.</p>
-<p>6). <strong>Tran, D.Q.</strong>, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T &amp; Durand-Morat, A. Saltwater Intrusion Risks in the Mekong Delta under Uncertainty. <em>In review</em>.</p>
-<p>5). <strong>Tran, D. Q.</strong> &amp; Borisova, T. Effects of future climatic and socioeconomic changes on Florida water demand. <em>In preparation</em>.</p>
-<p>4). <strong>Tran, D.Q.</strong>, Kovacs, K &amp; Wallander, S. The buffer value of groundwater augmentation through managed aquifer recharge with stochastic stream flows. <em>In preparation</em>.</p>
-<p>3). <strong>Tran, D.Q.</strong>, Nguyen, N.T. N., Bairagi, S., Kieu, N. L., Huynh, V.T. M. A regional hydro-economic model for estimating the costs of increased saltwater intrusion risk on agriculture. <em>In preparation</em>.</p>
-<p>2). <strong>Tran, D.Q.</strong> &amp; Kurkalova, L.A. Entropy approach: an application to the estimation of the changes in the dynamics of tillage choice. <em>In preparation</em>.</p>
-<p>1). <strong>Tran, D.Q.</strong> &amp; Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. <em>In preparation</em>.</p>
->>>>>>> 4fee4a18fe919ec999c3a0b10137625068136b13
 </div>
 </div>
 
