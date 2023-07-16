@@ -9,7 +9,6 @@ text-align: justify}
 </style>
 
 
-####
 ##### **Published/Accepted Papers**
 18). Ali, A.M. A., **Tran, D.Q.**, Kovacs, K & Dahlke, H. [Hydro-economic modeling of managed aquifer recharge in the lower Mississippi](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.13141?af=R). Journal of the American Water Resources Association. 00 (0)[accepted]: 1– 22 
 
@@ -47,7 +46,7 @@ text-align: justify}
 
 1). Kurkalova, L.A. & **Tran, D.Q.** 2017. [Is the use of no-till continuous or rotational? Quantifying tillage dynamics from time-ordered spatially aggregated data](https://www.jswconline.org/content/72/2/131). Journal of Soil and Water Conservation, 72(2), 131-138.
 
-##### 
+
 ##### **Papers in Review and Preparation**
 
 10). **Tran, D. Q** & Kurkalova, L.A. Testing for complementary between the use of continuous no-till and cover crops: an application of Entropy and Bayesian approaches. *Revise and resubmit*.

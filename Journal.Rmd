@@ -15,9 +15,6 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
 #### *About this Blog: I write about **"my opinions"**. No official agency endorsement should be inferred.*
-###
-###
-####
 
 <!-- # Agricultural Carbon Market  -->
 
