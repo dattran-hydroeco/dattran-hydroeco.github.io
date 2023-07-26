@@ -26,7 +26,7 @@ text-align: justify}
 
 11). Babcock, B., Nemati, M., & **Tran, D. Q.** (2021). [Will citrus survive SGMA? Understanding California grower crop choice](https://www.researchgate.net/publication/371867520_Will_citrus_survive_SGMA_Understanding_California_grower_crop_choice#fullTextFileContent).Citrograph, 12(4).32–37.
 
-10). **Tran, D.Q.** & Kovacs, K. 2021. [Climate uncertainty and optimal groundwater augmentation. Water Resources Research](https://doi.org/10.1029/2021WR030114). 57 (9), 1-19.
+10). **Tran, D.Q.** & Kovacs, K. 2021. [Climate uncertainty and optimal groundwater augmentation](https://doi.org/10.1029/2021WR030114). Water Resources Research. 57 (9), 1-19.
 
 9). **Tran, D.Q.**, Kovacs, K & West, G. 2020. [Spatial economic predictions of managed aquifer recharge for an agricultural landscape](https://doi.org/10.1016/j.agwat.2020.106337). Agricultural Water Management. 66 (4), 666-682.
 
