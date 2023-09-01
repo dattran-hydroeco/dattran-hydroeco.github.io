@@ -13,8 +13,8 @@
 
 <title>My_projects.knit</title>
 
-<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -62,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -82,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -139,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -172,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -181,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -234,7 +235,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -300,14 +301,37 @@ text-align: justify}
 </style>
 <div id="on-going-research-projects" class="section level5">
 <h5><strong>On-going Research Projects</strong></h5>
-<p>1). Projections of water demand in the Southeast U.S., with Dr. Tatiana Borisova (USDA-ERS)</p>
-<p>2). Effect of conservation easements on surrounding property values, with Natural Resources and Infrastructure Research Team at Florida Legislative Office of Economic and Demographic Research</p>
-<p>3). Estimation of regional supply elasticities using remote-sensing data, with Drs. Bruce Babcock &amp; Mehdi Nemati (University of California, Riverside).</p>
-<p>4). Economics of managed aquifer recharge in the Mississippi Embayment: An integration of MODFLOW with an economic model, with Dr. Kent Kovacs (University of Arkansas), Drs. Helen E. Dahlke (UC Davis) and Ahmed Ali (California Department of Water Resources), and Dr. Steve Wallander (USDA-ERS)</p>
-<p>5). The economic impacts of salinity intrusion on coastal rice production: a comprehensive micro-macro analysis, with Dr. Alvaro Durand-Morat (University of Arkansas), Hyunwoo Kang (Oregon State University), Drs. Bradford Mills and Venkataramana Sridhar (Virginia Tech)</p>
-<p>6). An integrated tillage choice dynamics and biophysical modeling framework - impacts of periodic tillage on water quality in Upper Mississippi River Basin, with Lyubov A. Kurkalova (North Carolina A&amp;T State)., Jaehak Jeong (Texas A&amp;M) &amp; Philip W. Gassman (Iowa State University)</p>
-<p>7). Modeling field level tillage dynamics with cropland data layer (CDL): an application of Entropy approach to evaluate the effect of shifting production toward corn monoculture on farmer’s tillage choices in Iowa, with Lyubov A. Kurkalova (North Carolina A&amp;T State) and Silvia Secchi (University of Iowa)</p>
-<p>8). Solar Energy Evolution and Diffusion in Mekong Delta, Vietnam, with Dr. Kieu Le (University of Arkansas and Can Tho University, Vietnam)</p>
+<p>1). Projections of water demand in the Southeast U.S., with
+Dr. Tatiana Borisova (USDA-ERS)</p>
+<p>2). Effect of conservation easements on surrounding property values,
+with Natural Resources and Infrastructure Research Team at Florida
+Legislative Office of Economic and Demographic Research</p>
+<p>3). Estimation of regional supply elasticities using remote-sensing
+data, with Drs. Bruce Babcock &amp; Mehdi Nemati (University of
+California, Riverside).</p>
+<p>4). Economics of managed aquifer recharge in the Mississippi
+Embayment: An integration of MODFLOW with an economic model, with
+Dr. Kent Kovacs (University of Arkansas), Drs. Helen E. Dahlke (UC
+Davis) and Ahmed Ali (California Department of Water Resources), and
+Dr. Steve Wallander (USDA-ERS)</p>
+<p>5). The economic impacts of salinity intrusion on coastal rice
+production: a comprehensive micro-macro analysis, with Dr. Alvaro
+Durand-Morat (University of Arkansas), Hyunwoo Kang (Oregon State
+University), Drs. Bradford Mills and Venkataramana Sridhar (Virginia
+Tech)</p>
+<p>6). An integrated tillage choice dynamics and biophysical modeling
+framework - impacts of periodic tillage on water quality in Upper
+Mississippi River Basin, with Lyubov A. Kurkalova (North Carolina
+A&amp;T State)., Jaehak Jeong (Texas A&amp;M) &amp; Philip W. Gassman
+(Iowa State University)</p>
+<p>7). Modeling field level tillage dynamics with cropland data layer
+(CDL): an application of Entropy approach to evaluate the effect of
+shifting production toward corn monoculture on farmer’s tillage choices
+in Iowa, with Lyubov A. Kurkalova (North Carolina A&amp;T State) and
+Silvia Secchi (University of Iowa)</p>
+<p>8). Solar Energy Evolution and Diffusion in Mekong Delta, Vietnam,
+with Dr. Kieu Le (University of Arkansas and Can Tho University,
+Vietnam)</p>
 </div>
 
 

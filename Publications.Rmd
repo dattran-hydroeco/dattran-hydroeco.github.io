@@ -57,7 +57,7 @@ text-align: justify}
 
 7). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *In review*.
 
-6). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  Modeling Saltwater Intrusion Risk in the Presence of Uncertainty. *Revise and resubmit (minor revisions): Science of The Total Environment*. [Reprint version can be accessed here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510877). 
+6). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  Modeling Saltwater Intrusion Risk in the Presence of Uncertainty. *Revise and resubmit (minor revisions): Science of The Total Environment*. [Preprint version can be accessed here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510877). 
 
 5). **Tran, D. Q.** & Borisova, T. Effects of future climatic and socioeconomic changes on Florida water demand. *In preparation*.
 
