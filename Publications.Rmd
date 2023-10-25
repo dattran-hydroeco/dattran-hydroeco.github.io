@@ -10,7 +10,9 @@ text-align: justify}
 
 
 ##### **Published/Accepted Papers**
-18). Ali, A.M. A., **Tran, D.Q.**, Kovacs, K & Dahlke, H. [Hydro-economic modeling of managed aquifer recharge in the lower Mississippi](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.13141?af=R). Journal of the American Water Resources Association. 00 (0)[accepted]: 1– 22 
+19). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  Modeling Saltwater Intrusion Risk in the Presence of Uncertainty. *Science of The Total Environment (accepted) *. [Preprint version can be accessed here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510877). 
+
+18). Ali, A.M. A., **Tran, D.Q.**, Kovacs, K & Dahlke, H. 2023. [Hydro-economic modeling of managed aquifer recharge in the lower Mississippi](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.13141?af=R). Journal of the American Water Resources Association. 00 (0): 1– 22 
 
 17). Nemati, M., **Tran, D.Q** & Schwabe, K. 2023. [Residential Water Conservation and the Rebound Effects: A Temporal Decomposition and Investigation](https://doi.org/10.1029/2022WR032169). Water Resources Research 59 (4), 1-18.  
 
@@ -49,15 +51,13 @@ text-align: justify}
 
 ##### **Papers in Review and Preparation**
 
-11). **Tran, D. Q** & Kurkalova, L.A. Testing for complementary between the use of continuous no-till and cover crops: an application of Entropy and Bayesian approaches *(invited)*. *Revise and resubmit*.
-
-10). Kovacs, K., **Tran, D. Q** & Durand-Morat, A. Managing water and long run aquifer abundance with climate uncertainty. *Revise and resubmit*. 
+10). **Tran, D. Q** & Kurkalova, L.A. Testing for complementary between the use of continuous no-till and cover crops: an application of Entropy and Bayesian approaches *(invited paper)*. *Revise and resubmit*.
 
 9). Pathak, S., Wang H., **Tran, D. Q** & Adusumilli, N., C. Quantifying the adoption dynamics of sustainable agricultural practices in the Mississippi Delta region. *Revise and resubmit*. 
 
 8). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *In review*.
 
-7). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  Modeling Saltwater Intrusion Risk in the Presence of Uncertainty. *Revise and resubmit (minor revisions): Science of The Total Environment*. [Preprint version can be accessed here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510877). 
+7). Nemati, M., **Tran, D.Q** & Schwabe, K. Effect of Water-Reduction Mandate during Drought on Hourly Residential Water Use. JAWWA (invited paper). *In preparation*.
 
 6). **Tran, D. Q.** & Borisova, T. Quantifying Effects of future climatic and socioeconomic changes on Florida water demand using machine learning. *In preparation*.
 
@@ -69,4 +69,4 @@ text-align: justify}
 
 2). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *In preparation*.
 
-1). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  The Costs of Saltwater Intrusion in the Mekong Delta under Uncertainty. Climate *(invited paper). In Preparation.* 
+1). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  Simulating the effects of sea-level rise and land subsidence on saltwater intrusion in the Mekong Delta under Uncertainty. Climate *(invited paper). In Preparation.* 
