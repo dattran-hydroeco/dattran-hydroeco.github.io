@@ -10,7 +10,7 @@ text-align: justify}
 
 
 ##### **Published/Accepted Papers**
-19). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  Modeling Saltwater Intrusion Risk in the Presence of Uncertainty. *Science of The Total Environment (accepted) *. [Preprint version can be accessed here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510877). 
+19). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  [Modeling Saltwater Intrusion Risk in the Presence of Uncertainty](https://doi.org/10.1016/j.scitotenv.2023.168140). *Science of The Total Environment (In Press) *. [Preprint version can be accessed here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510877). 
 
 18). Ali, A.M. A., **Tran, D.Q.**, Kovacs, K & Dahlke, H. 2023. [Hydro-economic modeling of managed aquifer recharge in the lower Mississippi](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.13141?af=R). Journal of the American Water Resources Association. 00 (0): 1– 22 
 
