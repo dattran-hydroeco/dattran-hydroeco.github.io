@@ -10,6 +10,8 @@ text-align: justify}
 
 
 ##### **Published/Accepted Papers**
+21). Pathak, S., Wang H., **Tran, D. Q** & Adusumilli, N., C. Persistence and disadoption of sustainable agricultural practices in the Mississippi Delta region. *Agronomy Journal (Accepted)*.  
+
 20). **Tran, D. Q** & Kurkalova, L.A. [Testing for complementary between the use of continuous no-till and cover crops: an application of Entropy and Bayesian approaches](https://doi.org/10.1016/j.soisec.2023.100118). *Soil Security (In Press) *.
 
 19). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  [Modeling Saltwater Intrusion Risk in the Presence of Uncertainty](https://doi.org/10.1016/j.scitotenv.2023.168140). *Science of The Total Environment (In Press) *. [Preprint version can be accessed here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510877). 
@@ -52,8 +54,6 @@ text-align: justify}
 
 
 ##### **Papers in Review and Preparation**
-
-9). Pathak, S., Wang H., **Tran, D. Q** & Adusumilli, N., C. Quantifying the adoption dynamics of sustainable agricultural practices in the Mississippi Delta region. *Revise and resubmit*. 
 
 8). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *In review*.
 
