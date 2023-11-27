@@ -69,4 +69,4 @@ text-align: justify}
 
 2). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *In preparation*.
 
-1). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  Simulating the effects of sea-level rise and land subsidence on saltwater intrusion in the Mekong Delta under Uncertainty. Climate *(invited paper). In Preparation.* 
+1). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  Effects of sea-level rise and land subsidence on saltwater intrusion in the Mekong Delta under Uncertainty. Climate *(invited paper). In Preparation.* 
