@@ -5,5 +5,5 @@ output: html_document
 
 <!-- ## [*Link to my CV*](https://github.com/dattran-hydroeco/Dat-Tran-Website/blob/main/1_Dat%20_CV_%20updated_06272023.pdf) -->
 
-#### [*Link to my CV*](https://aaea.execinc.com/edibo/Uploads/Profile_23_11_26_19_45_49_56__98_230_63_133_0.pdf)
+#### [*Link to my CV*](https://aaea.execinc.com/edibo/Uploads/Profile_23_12_30_06_17_13_44__207_126_1_7_0.pdf)
 #### Last updated: December, 2023
