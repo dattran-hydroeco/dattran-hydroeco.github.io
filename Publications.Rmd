@@ -59,7 +59,7 @@ text-align: justify}
 
 8). **Tran, D.Q.**, Kieu, N. L., Nguyen, N.T. N., Huynh, V.T. M., & Tran, V. T. Projections of saltwater intrusion in a mega-delta under uncertainty. Climate *Under review.* 
 
-7). **Tran, D.Q.**, Nguyen, N.T. N., Bairagi, S., Kieu, N. L., Huynh, V.T. M. A new integrated approach to quantify saltwater intrusion risk in a mega-delta under uncertainty. *MethodsX (invited paper). In preparation*.
+7). **Tran, D.Q.**, Durand-Morat, A.,Kieu, N. L., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V.T. A new integrated approach to quantify saltwater intrusion risk in a mega-delta under uncertainty. *MethodsX (invited paper). In preparation*.
 
 6). Nemati, M., **Tran, D.Q** & Schwabe, K. Effect of Water-Reduction Mandate during Drought on Hourly Residential Water Use. *JAWWA (invited paper). In preparation*.
 
