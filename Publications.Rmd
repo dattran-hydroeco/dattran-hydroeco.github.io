@@ -53,20 +53,20 @@ text-align: justify}
 1). Kurkalova, L.A. & **Tran, D.Q.** 2017. [Is the use of no-till continuous or rotational? Quantifying tillage dynamics from time-ordered spatially aggregated data](https://www.jswconline.org/content/72/2/131). Journal of Soil and Water Conservation, 72(2), 131-138.
 
 
-##### **Papers in Review and Preparation**
+##### **Papers under Review and Preparation**
 
-8). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *In review*.
+8). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *Under review*.
 
-7). Nemati, M., **Tran, D.Q** & Schwabe, K. Effect of Water-Reduction Mandate during Drought on Hourly Residential Water Use. *JAWWA (invited paper). In preparation*.
+7). **Tran, D.Q.**, Kieu, N. L., Nguyen, N.T. N., Huynh, V.T. M., & Tran, V. T. Projections of saltwater intrusion in a mega-delta under uncertainty. Climate *Under review.* 
 
-6). **Tran, D. Q.** & Borisova, T. Quantifying Effects of future climatic and socioeconomic changes on Florida water demand using machine learning. *In preparation*.
+6). Nemati, M., **Tran, D.Q** & Schwabe, K. Effect of Water-Reduction Mandate during Drought on Hourly Residential Water Use. *JAWWA (invited paper). In preparation*.
 
-5). **Tran, D.Q.**, Kovacs, K & Wallander, S. The buffer value of groundwater augmentation through managed aquifer recharge with stochastic stream flows. *In preparation*.
+5). **Tran, D. Q.** & Borisova, T. Quantifying Effects of future climatic and socioeconomic changes on Florida water demand using machine learning. *In preparation*.
 
-4). **Tran, D.Q.**, Nguyen, N.T. N., Bairagi, S., Kieu, N. L., Huynh, V.T. M. A regional hydro-economic model for estimating the costs of increased saltwater intrusion risk on agriculture. *In preparation*.
+4). **Tran, D.Q.**, Kovacs, K & Wallander, S. The buffer value of groundwater augmentation through managed aquifer recharge with stochastic stream flows. *In preparation*.
 
-3). **Tran, D.Q.** & Kurkalova, L.A. Entropy approach: an application to the estimation of the changes in the dynamics of tillage choice. *In preparation*. 
+3). **Tran, D.Q.**, Nguyen, N.T. N., Bairagi, S., Kieu, N. L., Huynh, V.T. M. A regional hydro-economic model for estimating the costs of increased saltwater intrusion risk on agriculture. *In preparation*.
 
-2). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *In preparation*.
+2). **Tran, D.Q.** & Kurkalova, L.A. Entropy approach: an application to the estimation of the changes in the dynamics of tillage choice. *In preparation*. 
 
-1). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  Effects of sea-level rise and land subsidence on saltwater intrusion in the Mekong Delta under Uncertainty. Climate *(invited paper). In Preparation.* 
+1). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *In preparation*.
