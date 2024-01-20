@@ -55,9 +55,13 @@ text-align: justify}
 
 ##### **Papers under Review and Preparation**
 
-9). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *Under review*.
+11). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *Under review*.
 
-8). **Tran, D.Q.**, Kieu, N. L., Nguyen, N.T. N., Huynh, V.T. M., & Tran, V. T. Projections of saltwater intrusion in a mega-delta under uncertainty. Climate. *Under review.* 
+10). **Tran, D. Q**. 2024. Annual assessment of Florida’s water resources: supply and demand. In: 2024 Annual assessment of Florida's water resources and conservation lands. Office of Economic and Demographic Research, Florida Legislature, Tallahassee, Florida. *Forthcoming.* 
+
+9). **Tran, D.Q.**, Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T.  Simulating the impact of water demand management options on saltwater intrusion in a mega-delta under uncertainty. *Under review*.
+
+8). **Tran, D.Q**., Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. How many acres do we need to fallow to control saltwater intrusion in a mega-delta under uncertainty? *In preparation*.
 
 7). **Tran, D.Q.**, Durand-Morat, A.,Kieu, N. L., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V.T. A new integrated approach to quantify saltwater intrusion risk in a mega-delta under uncertainty. *MethodsX (invited paper). In preparation*.
 
