@@ -3,13 +3,18 @@ title: ""
 output: html_document
 ---
 
+#
+#
+<link rel="stylesheet" href="style.css" type="text/css">
+
+
 <style>
 body {
 text-align: justify}
 </style>
 
 
-##### **Published/Accepted Papers**
+### **Published/Accepted Papers**
 21). Pathak, S., Wang H., **Tran, D. Q** & Adusumilli, N., C. Persistence and disadoption of sustainable agricultural practices in the Mississippi Delta region. *Agronomy Journal (Accepted)*.  
 
 20). **Tran, D. Q** & Kurkalova, L.A. [Testing for complementary between the use of continuous no-till and cover crops: an application of Entropy and Bayesian approaches](https://doi.org/10.1016/j.soisec.2023.100118). *Soil Security (In Press) *.
@@ -77,4 +82,4 @@ text-align: justify}
 
 1). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *In preparation*.
 
-##### **Conferences: please see my CV**
+### **Conferences: please see my CV**

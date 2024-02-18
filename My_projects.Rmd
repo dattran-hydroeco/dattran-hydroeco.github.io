@@ -2,12 +2,15 @@
 title: ""
 output: html_document
 ---
+
+<link rel="stylesheet" href="style.css" type="text/css">
+
 <style>
 body {
 text-align: justify}
 </style>
 
-##### **On-going Research Projects**
+### **On-going Research Projects**
 
 1). Projections of water demand in the Southeast U.S., with Dr. Tatiana Borisova (USDA-ERS)
 
