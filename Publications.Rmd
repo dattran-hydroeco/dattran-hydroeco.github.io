@@ -58,7 +58,7 @@ text-align: justify}
 1). Kurkalova, L.A. & **Tran, D.Q.** 2017. [Is the use of no-till continuous or rotational? Quantifying tillage dynamics from time-ordered spatially aggregated data](https://www.jswconline.org/content/72/2/131). Journal of Soil and Water Conservation, 72(2), 131-138.
 
 
-##### **Papers under Review and Preparation**
+### **Papers under Review and Preparation**
 
 11). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *Under review*.
 
