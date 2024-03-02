@@ -15,6 +15,8 @@ text-align: justify}
 
 
 ### **Published/Accepted Papers**
+22). **Tran, D. Q**. 2024. [Annual assessment of Florida’s water resources: supply and demand. In: 2024 Annual assessment of Florida's water resources and conservation lands](http://edr.state.fl.us/Content/natural-resources/2024_AnnualAssessmentWaterResources_Chapter3.pdf). Office of Economic and Demographic Research, Florida Legislature, Tallahassee, Florida.  
+
 21). Pathak, S., Wang H., **Tran, D. Q** & Adusumilli, N., C. Persistence and disadoption of sustainable agricultural practices in the Mississippi Delta region. *Agronomy Journal (Accepted)*.  
 
 20). **Tran, D. Q** & Kurkalova, L.A. [Testing for complementary between the use of continuous no-till and cover crops: an application of Entropy and Bayesian approaches](https://doi.org/10.1016/j.soisec.2023.100118). *Soil Security (In Press) *.
@@ -60,25 +62,23 @@ text-align: justify}
 
 ### **Papers under Review and Preparation**
 
-11). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *Under review*.
+10). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete Data: An application of Entropy approach. *Under review*. 
 
-10). **Tran, D. Q**. 2024. Annual assessment of Florida’s water resources: supply and demand. In: 2024 Annual assessment of Florida's water resources and conservation lands. Office of Economic and Demographic Research, Florida Legislature, Tallahassee, Florida. *Forthcoming.* 
+9). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *Under review*.
 
-9). **Tran, D.Q.**, Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T.  Simulating the impact of water demand management options on saltwater intrusion in a mega-delta under uncertainty. *Under review*.
-
-8). **Tran, D.Q**., Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. How many acres do we need to fallow to control saltwater intrusion in a mega-delta under uncertainty? *In preparation*.
+8). **Tran, D.Q.**, Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T.  Simulating the impact of water demand management options on saltwater intrusion in a mega-delta under uncertainty. *Under review*.
 
 7). **Tran, D.Q.**, Durand-Morat, A.,Kieu, N. L., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V.T. A new integrated approach to quantify saltwater intrusion risk in a mega-delta under uncertainty. *MethodsX (invited paper). In preparation*.
 
 6). Nemati, M., **Tran, D.Q** & Schwabe, K. Effect of Water-Reduction Mandate during Drought on Hourly Residential Water Use. *JAWWA (invited paper). In preparation*.
 
-5). **Tran, D. Q.** & Borisova, T. Quantifying Effects of future climatic and socioeconomic changes on Florida water demand using machine learning. *In preparation*.
+5). **Tran, D.Q** & Le, N. K. Does corn move north? An assessment of recent changes in crop rotation in the U.S. Corn Belt using remote sensing data. *Sustainability (invited paper). In preparation*.
 
-4). **Tran, D.Q.**, Kovacs, K & Wallander, S. The buffer value of groundwater augmentation through managed aquifer recharge with stochastic stream flows. *In preparation*.
+4). **Tran, D.Q**., Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. How many acres do we need to fallow to control saltwater intrusion in a mega-delta under uncertainty? *In preparation*.
 
-3). **Tran, D.Q.**, Nguyen, N.T. N., Bairagi, S., Kieu, N. L., Huynh, V.T. M. A regional hydro-economic model for estimating the costs of increased saltwater intrusion risk on agriculture. *In preparation*.
+3). **Tran, D. Q.** & Borisova, T. Quantifying Effects of future climatic and socioeconomic changes on Florida water demand using machine learning. *In preparation*.
 
-2). **Tran, D.Q.** & Kurkalova, L.A. Entropy approach: an application to the estimation of the changes in the dynamics of tillage choice. *In preparation*. 
+2). **Tran, D.Q.**, Nguyen, N.T. N., Bairagi, S., Kieu, N. L., Huynh, V.T. M. A regional hydro-economic model for estimating the costs of increased saltwater intrusion risk on agriculture. *In preparation*.
 
 1). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *In preparation*.
 
