@@ -17,7 +17,7 @@ text-align: justify}
 ### **Published/Accepted Papers**
 22). **Tran, D. Q**. 2024. [Annual assessment of Florida’s water resources: supply and demand. In: 2024 Annual assessment of Florida's water resources and conservation lands](http://edr.state.fl.us/Content/natural-resources/2024_AnnualAssessmentWaterResources_Chapter3.pdf). Office of Economic and Demographic Research, Florida Legislature, Tallahassee, Florida.  
 
-21). Pathak, S., Wang H., **Tran, D. Q** & Adusumilli, N., C. Persistence and disadoption of sustainable agricultural practices in the Mississippi Delta region. *Agronomy Journal (Accepted)*.  
+21). Pathak, S., Wang H., **Tran, D. Q** & Adusumilli, N., C. [Persistence and disadoption of sustainable agricultural practices in the Mississippi Delta region](https://doi.org/10.1002/agj2.21519). *Agronomy Journal (Accepted)*.  
 
 20). **Tran, D. Q** & Kurkalova, L.A. [Testing for complementary between the use of continuous no-till and cover crops: an application of Entropy and Bayesian approaches](https://doi.org/10.1016/j.soisec.2023.100118). *Soil Security (In Press) *.
 
