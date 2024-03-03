@@ -62,7 +62,7 @@ text-align: justify}
 
 ### **Papers under Review and Preparation**
 
-10). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete Data: An application of Entropy approach. *Under review*. 
+10). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Under review*. 
 
 9). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *Under review*.
 
