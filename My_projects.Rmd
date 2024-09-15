@@ -20,11 +20,11 @@ text-align: justify}
 
 4). Economics of managed aquifer recharge in the Mississippi Embayment: An integration of MODFLOW with an economic model, with Dr. Kent Kovacs (University of Arkansas), Drs. Helen E. Dahlke (UC Davis) and Ahmed Ali (California Department of Water Resources), and Dr. Steve Wallander (USDA-ERS)
 
-5). The economic impacts of salinity intrusion on coastal rice production: a comprehensive micro-macro analysis, with Dr. Alvaro Durand-Morat (University of Arkansas), Hyunwoo Kang (Oregon State University), Drs. Bradford Mills and Venkataramana Sridhar (Virginia Tech)
+5). The economic impacts of salinity intrusion on coastal rice production: a comprehensive micro-macro analysis, with Dr. Alvaro Durand-Morat (University of Arkansas), Hyunwoo Kang (Oregon State University), Drs. Bradford Mills and Venkataramana Sridhar (Virginia Tech), Dr. Kieu Le (Field to Market)
 
 6). An integrated tillage choice dynamics and biophysical modeling framework - impacts of periodic tillage on water quality in Upper Mississippi River Basin, with Lyubov A. Kurkalova (North Carolina A&T State), Jaehak Jeong (Texas A&M) & Philip W. Gassman (Iowa State University)
 
 7). Modeling field level tillage dynamics with cropland data layer (CDL): an application of Entropy approach to evaluate the effect of shifting production toward corn monoculture on farmer’s tillage choices in Iowa, with Lyubov A. Kurkalova (North Carolina A&T State) and Silvia Secchi (University of Iowa)
 
-8). Solar Energy Evolution and Diffusion in Mekong Delta, Vietnam, with Dr. Kieu Le (University of Arkansas and Can Tho University, Vietnam)
+8). Solar Energy Evolution and Diffusion, with Dr. Kieu Le (Field to Market)
 
