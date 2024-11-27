@@ -21,7 +21,7 @@ text-align: justify}
 
 20). **Tran, D. Q** & Kurkalova, L.A. [Testing for complementary between the use of continuous no-till and cover crops: an application of Entropy and Bayesian approaches](https://doi.org/10.1016/j.soisec.2023.100118). Soil Security. 13, 100118.
 
-19). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Kieu, N. L., Tran, V. T & Durand-Morat, A.  [Modeling Saltwater Intrusion Risk in the Presence of Uncertainty](https://doi.org/10.1016/j.scitotenv.2023.168140). Science of The Total Environment.908, 168140. [Preprint version can be accessed here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510877). 
+19). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Le, N. K., Tran, V. T & Durand-Morat, A.  [Modeling Saltwater Intrusion Risk in the Presence of Uncertainty](https://doi.org/10.1016/j.scitotenv.2023.168140). Science of The Total Environment.908, 168140. [Preprint version can be accessed here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510877). 
 
 18). Ali, A.M. A., **Tran, D.Q.**, Kovacs, K & Dahlke, H. 2023. [Hydro-economic modeling of managed aquifer recharge in the lower Mississippi](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.13141?af=R). Journal of the American Water Resources Association. 00 (0): 1– 22 
 
@@ -64,7 +64,7 @@ text-align: justify}
 
 10). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Under review*.
 
-9). **Tran, D.Q**., Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. Is It Worth It? Land-fallowing and Saltwater Intrusion Control Under Uncertainty *Under review*.
+9). **Tran, D.Q**., Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. Is It Worth It? Land-fallowing and Saltwater Intrusion Control Under Uncertainty *Under review*.
 
 8). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *Under review*.
 
@@ -72,7 +72,7 @@ text-align: justify}
 
 6). **Tran, D. Q.** & Borisova, T. Quantifying Effects of future climatic and socioeconomic changes on Florida water demand using machine learning. *In preparation*.
 
-5). **Tran, D.Q.**, Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T.  Simulating the impact of water demand management options on saltwater intrusion in a mega-delta under uncertainty. *In preparation*.
+5). **Tran, D.Q.**, Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T.  Simulating the impact of water demand management options on saltwater intrusion in a mega-delta under uncertainty. *In preparation*.
 
 4). Nemati, M., **Tran, D.Q** & Schwabe, K. Effect of Water-Reduction Mandate during Drought on Hourly Residential Water Use. *In preparation*.
 
@@ -80,6 +80,6 @@ text-align: justify}
 
 2). **Tran, D.Q** & Le, N. K. Climate and economic value of Managed Aquifer Recharge in the Mississippi River Alluvial aquifer. *In preparation*.
 
-1). **Tran, D.Q.**, Nguyen, N.T. N., Bairagi, S., Kieu, N. L., Huynh, V.T. M. A regional hydro-economic model for estimating the costs of increased saltwater intrusion risk on agriculture. *In preparation*.
+1). **Tran, D.Q.**, Nguyen, N.T. N., Bairagi, S., Le, N. K., Huynh, V.T. M. A regional hydro-economic model for estimating the costs of increased saltwater intrusion risk on agriculture. *In preparation*.
 
 ### **Conferences: please see my [CV](https://aaea.execinc.com/edibo/Uploads/Profile_24_09_29_15_48_41_85__207_126_1_7_0.pdf)**
