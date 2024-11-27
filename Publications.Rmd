@@ -62,21 +62,23 @@ text-align: justify}
 
 ### **Papers Under Review and Preparation**
 
-9). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Under review*.
+10). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Under review*.
 
-8). **Tran, D.Q**., Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. Optimizing land-fallowing for saltwater intrusion control in a mega-delta under uncertainty *Under review*.
+9). **Tran, D.Q**., Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. Is It Worth It? Land-fallowing and Saltwater Intrusion Control Under Uncertainty *Under review*.
 
-7). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *Under review*.
+8). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *Under review*.
 
-6). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *Under review*. [Preprint version available here](https://spp.ucr.edu/document/estimation-supply-elasticities-non-exchange-traded-commodities-full-paper).
+7). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *Under review*. [Preprint version available here](https://spp.ucr.edu/document/estimation-supply-elasticities-non-exchange-traded-commodities-full-paper).
 
-5). **Tran, D. Q.** & Borisova, T. Quantifying Effects of future climatic and socioeconomic changes on Florida water demand using machine learning. *In preparation*.
+6). **Tran, D. Q.** & Borisova, T. Quantifying Effects of future climatic and socioeconomic changes on Florida water demand using machine learning. *In preparation*.
 
-4). **Tran, D.Q.**, Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T.  Simulating the impact of water demand management options on saltwater intrusion in a mega-delta under uncertainty. *In preparation*.
+5). **Tran, D.Q.**, Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T.  Simulating the impact of water demand management options on saltwater intrusion in a mega-delta under uncertainty. *In preparation*.
 
-3). Nemati, M., **Tran, D.Q** & Schwabe, K. Effect of Water-Reduction Mandate during Drought on Hourly Residential Water Use. *JAWWA (invited paper). In preparation*.
+4). Nemati, M., **Tran, D.Q** & Schwabe, K. Effect of Water-Reduction Mandate during Drought on Hourly Residential Water Use. *In preparation*.
 
-2). **Tran, D.Q** & Le, N. K. Does corn move north? An assessment of recent changes in crop rotation in the U.S. Corn Belt using remote sensing data. *Sustainability (invited paper). In preparation*.
+3). **Tran, D.Q** & Le, N. K. Does corn move north? An assessment of recent changes in crop rotation in the U.S. Corn Belt using remote sensing data. *In preparation*.
+
+2). **Tran, D.Q** & Le, N. K. Climate and economic value of Managed Aquifer Recharge in the Mississippi River Alluvial aquifer. *In preparation*.
 
 1). **Tran, D.Q.**, Nguyen, N.T. N., Bairagi, S., Kieu, N. L., Huynh, V.T. M. A regional hydro-economic model for estimating the costs of increased saltwater intrusion risk on agriculture. *In preparation*.
 
