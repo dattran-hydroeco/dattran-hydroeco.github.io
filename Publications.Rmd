@@ -62,17 +62,15 @@ text-align: justify}
 
 ### **Papers Under Review and Preparation**
 
-10). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Under review*.
+9). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Under review*.
 
-9). **Tran, D.Q**., Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. Optimizing land-fallowing for saltwater intrusion control in a mega-delta under uncertainty *Under review*.
+8). **Tran, D.Q**., Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. Optimizing land-fallowing for saltwater intrusion control in a mega-delta under uncertainty *Under review*.
 
-8). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *Under review*.
+7). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *Under review*.
 
-7). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *Under review*. [Preprint version available here](https://spp.ucr.edu/document/estimation-supply-elasticities-non-exchange-traded-commodities-full-paper).
+6). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *Under review*. [Preprint version available here](https://spp.ucr.edu/document/estimation-supply-elasticities-non-exchange-traded-commodities-full-paper).
 
-6). **Tran, D. Q.** & Borisova, T. Quantifying Effects of future climatic and socioeconomic changes on Florida water demand using machine learning. *In preparation*.
-
-5). **Tran, D.Q.**, Durand-Morat, A & Kieu, N. L. A probabilistic framework for quantifying the uncertainty of saltwater intrusion. *MethodsX (invited paper). In preparation*.
+5). **Tran, D. Q.** & Borisova, T. Quantifying Effects of future climatic and socioeconomic changes on Florida water demand using machine learning. *In preparation*.
 
 4). **Tran, D.Q.**, Kieu, N. L., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T.  Simulating the impact of water demand management options on saltwater intrusion in a mega-delta under uncertainty. *In preparation*.
 

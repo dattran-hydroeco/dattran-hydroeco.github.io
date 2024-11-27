@@ -27,7 +27,7 @@ Hello, this is Dat. Currently, I work as an economist in the Florida Legislature
 
 **My research interests** can be broken down into three main categories: **technology adoption**, **resource management policies**, and **interactions between hydro-biophysical and economic system**. I study these topics using theoretical, empirical, numerical, and bio-physical process-based modeling approaches. With the availability of large geo-referenced datasets, I increasingly spend time on machine learning and data analytics applications with reduced form econometric analysis. Being an engineer by training, I am involved in several interdisciplinary research projects. I collaborate extensively with soil and environmental scientists, civil engineers, hydrologists and economists.
 
-<!-- ####  -->
+<!-- #### -->
 <!-- #### **Technology Adoption** -->
 <!-- ### -->
 <!-- ### -->
