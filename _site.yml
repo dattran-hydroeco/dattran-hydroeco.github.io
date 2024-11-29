@@ -15,6 +15,8 @@ navbar:
       href: Links.html
     - text: "Blog"
       href: Journal.html
+    - text: "Talks"
+      href: Talks.html
 
 
   right:

@@ -18,8 +18,6 @@ output:
 ## Florida's Water Use Projection: A Machine Learning Approach
 This approach integrates a K-Means Clustering and Multiple Linear Regression to forecast sectoral water use for Florida during 2020-2040. [More information on this projection can be found here](http://edr.state.fl.us/Content/natural-resources/2024_AnnualAssessmentWaterResources_Chapter3.pdf) or [please contact me](https://dattran-hydroeco.github.io/index.html)
 
-## I am a Guest Editor of the Special Issue: Sustainable Water Management in Agricultural Irrigation. Journal: Water. [More information about the Special Issue can be found here](https://www.mdpi.com/journal/water/special_issues/JD60IDD43H) or contact me tran.dat@leg.state.fl.us
-
 <!-- ### R and R-Studio -->
 
 <!-- #### [R](http://www.r-project.org) is a free open-source programming language that can be used for statistical analysis, data-simulation, graphing, and lots of other stuff. Another free program is [R-studio](http://www.rstudio.com), that provides a nice graphic interface for R. Download R first, then download R-studio. Both can run on PCs, Macs or Linux. Students will be learning R in the stats labs using the lab manual [](). -->

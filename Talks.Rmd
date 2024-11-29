@@ -1,0 +1,17 @@
+---
+title: ""
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+
+### I am a Guest Editor of the Special Issue: Sustainable Water Management in Agricultural Irrigation. Journal: Water. [More information about the Special Issue can be found here](https://www.mdpi.com/journal/water/special_issues/JD60IDD43H) or contact me tran.dat@leg.state.fl.us
