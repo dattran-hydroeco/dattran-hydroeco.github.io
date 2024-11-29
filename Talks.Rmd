@@ -1,17 +1,29 @@
 ---
 title: ""
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    collapsed: false
-    number_sections: false
-    toc_depth: 1
-    #code_folding: hide
+output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
-```
+#
+#
+<link rel="stylesheet" href="style.css" type="text/css">
 
-### I am a Guest Editor of the Special Issue: Sustainable Water Management in Agricultural Irrigation. Journal: Water. [More information about the Special Issue can be found here](https://www.mdpi.com/journal/water/special_issues/JD60IDD43H) or contact me tran.dat@leg.state.fl.us
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+### **Announcements**
+I am a Guest Editor of the Special Issue: Sustainable Water Management in Agricultural Irrigation. Journal: Water. [More information about the Special Issue can be found here](https://www.mdpi.com/journal/water/special_issues/JD60IDD43H) or contact me tran.dat@leg.state.fl.us
+
+
+
+### **Recent talks**
+
+
+#### **2024 AAEA conferences**
+
+1). **Tran, D. Q** & Borisova, T. [Forecasting Expenditures to Meet Regional Water Demand](https://ageconsearch.umn.edu/record/343688/files/28291.pdf). Selected paper, Agricultural & Applied Economics Association Annual Meeting, New Orleans, LA, 07/2024.
+
+2). **Tran, D.Q.**, Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V, T. [How Many Acres Do We Need to Fallow to Control Saltwater Intrusion in a Mega-Delta under Uncertainty?](https://ageconsearch.umn.edu/record/343689/files/28293.pdf). Selected paper, Agricultural & Applied Economics Association Annual Meeting, New Orleans, LA, 07/2024.

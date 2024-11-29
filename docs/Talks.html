@@ -29,9 +29,6 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -224,69 +221,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -294,16 +228,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -374,21 +298,47 @@ div.tocify {
 </div>
 
 
-<div
-id="i-am-a-guest-editor-of-the-special-issue-sustainable-water-management-in-agricultural-irrigation.-journal-water.-more-information-about-the-special-issue-can-be-found-here-or-contact-me-tran.datleg.state.fl.us"
-class="section level3">
-<h3>I am a Guest Editor of the Special Issue: Sustainable Water
+<div id="section" class="section level1">
+<h1></h1>
+</div>
+<div id="section-1" class="section level1">
+<h1></h1>
+<p><link rel="stylesheet" href="style.css" type="text/css"></p>
+<style>
+body {
+text-align: justify}
+</style>
+<div id="announcements" class="section level3">
+<h3><strong>Announcements</strong></h3>
+<p>I am a Guest Editor of the Special Issue: Sustainable Water
 Management in Agricultural Irrigation. Journal: Water. <a
 href="https://www.mdpi.com/journal/water/special_issues/JD60IDD43H">More
 information about the Special Issue can be found here</a> or contact me
 <a href="mailto:tran.dat@leg.state.fl.us"
-class="email">tran.dat@leg.state.fl.us</a></h3>
+class="email">tran.dat@leg.state.fl.us</a></p>
+</div>
+<div id="recent-talks" class="section level3">
+<h3><strong>Recent talks</strong></h3>
+<div id="aaea-conferences" class="section level4">
+<h4><strong>2024 AAEA conferences</strong></h4>
+<p>1). <strong>Tran, D. Q</strong> &amp; Borisova, T. <a
+href="https://ageconsearch.umn.edu/record/343688/files/28291.pdf">Forecasting
+Expenditures to Meet Regional Water Demand</a>. Selected paper,
+Agricultural &amp; Applied Economics Association Annual Meeting, New
+Orleans, LA, 07/2024.</p>
+<p>2). <strong>Tran, D.Q.</strong>, Le, N. K., Durand-Morat, A., Nguyen,
+N.T. N., Bairagi, S., Huynh, V.T. M &amp; Tran, V, T. <a
+href="https://ageconsearch.umn.edu/record/343689/files/28293.pdf">How
+Many Acres Do We Need to Fallow to Control Saltwater Intrusion in a
+Mega-Delta under Uncertainty?</a>. Selected paper, Agricultural &amp;
+Applied Economics Association Annual Meeting, New Orleans, LA,
+07/2024.</p>
+</div>
+</div>
 </div>
 
 
 
-</div>
-</div>
 
 </div>
 
@@ -421,35 +371,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
-    $('.unlisted.unnumbered').addClass('toc-ignore')
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
