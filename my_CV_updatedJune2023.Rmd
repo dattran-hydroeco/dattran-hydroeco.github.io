@@ -3,7 +3,5 @@ title: ""
 output: html_document
 ---
 
-<!-- ## [*Link to my CV*](https://github.com/dattran-hydroeco/Dat-Tran-Website/blob/main/1_Dat%20_CV_%20updated_06272023.pdf) -->
-
-#### [*Link to my CV*](https://aaea.execinc.com/edibo/Uploads/Profile_24_09_29_15_48_41_85__207_126_1_7_0.pdf)
-#### Last updated: August, 2024
+#### [*Link to my CV*](https://aaea.execinc.com/edibo/Uploads/Profile_24_12_08_07_10_24_84__207_126_1_7_0.pdf)
+#### Last updated: December, 2024
