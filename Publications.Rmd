@@ -64,7 +64,7 @@ text-align: justify}
 
 10). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Journal of the Agricultural and Applied Economics Association (JAAEA)*. *Revise-resubmit*.
 
-9). **Tran, D.Q**., Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. Is It Worth It? Land-fallowing and Saltwater Intrusion Control Under Uncertainty *Under review*.
+9). **Tran, D.Q**., Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. Is It Worth It? Land-fallowing and Saltwater Intrusion Control Under Uncertainty. *Under review*.
 
 8). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *Under review*.
 
