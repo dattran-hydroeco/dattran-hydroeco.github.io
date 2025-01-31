@@ -3,5 +3,5 @@ title: ""
 output: html_document
 ---
 
-#### [*Link to my CV*](https://aaea.execinc.com/edibo/Uploads/Profile_24_12_19_12_01_45_63__207_126_1_7_0.pdf)
-#### Last updated: December, 2024
+#### [*Link to my CV*](https://aaea.execinc.com/edibo/Uploads/Profile_25_01_31_09_49_09_90__207_126_1_7_0.pdf)
+#### Last updated: January, 2025
