@@ -15,15 +15,15 @@ text-align: justify}
 
 
 ### **Published/Accepted Papers**
-23). **Tran, D.Q**., Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. Is It Worth It? Land-fallowing and Saltwater Intrusion Control Under Uncertainty. *Science of the Total Environment*. *In Production*.
+23). **Tran, D.Q**., Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. 2024. Is It Worth It? Land-fallowing and Saltwater Intrusion Control Under Uncertainty. *Science of the Total Environment*. *In Production*.
 
 22). **Tran, D. Q**. 2024. [Annual assessment of Florida’s water resources: supply and demand. In: 2024 Annual assessment of Florida's water resources and conservation lands](http://edr.state.fl.us/Content/natural-resources/2024_AnnualAssessmentWaterResources_Chapter3.pdf). Office of Economic and Demographic Research, Florida Legislature, Tallahassee, Florida.  
 
-21). Pathak, S., Wang H., **Tran, D. Q** & Adusumilli, N., C. [Persistence and disadoption of sustainable agricultural practices in the Mississippi Delta region](https://doi.org/10.1002/agj2.21519). Agronomy Journal. 116(2), 765-776.  
+21). Pathak, S., Wang H., **Tran, D. Q** & Adusumilli, N., C. 2023. [Persistence and disadoption of sustainable agricultural practices in the Mississippi Delta region](https://doi.org/10.1002/agj2.21519). Agronomy Journal. 116(2), 765-776.  
 
-20). **Tran, D. Q** & Kurkalova, L.A. [Testing for complementary between the use of continuous no-till and cover crops: an application of Entropy and Bayesian approaches](https://doi.org/10.1016/j.soisec.2023.100118). Soil Security. 13, 100118.
+20). **Tran, D. Q** & Kurkalova, L.A. 2023. [Testing for complementary between the use of continuous no-till and cover crops: an application of Entropy and Bayesian approaches](https://doi.org/10.1016/j.soisec.2023.100118). Soil Security. 13, 100118.
 
-19). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Le, N. K., Tran, V. T & Durand-Morat, A.  [Modeling Saltwater Intrusion Risk in the Presence of Uncertainty](https://doi.org/10.1016/j.scitotenv.2023.168140). Science of The Total Environment.908, 168140. [Preprint version can be accessed here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510877). 
+19). **Tran, D.Q.**, Nguyen, N.T. N., Huynh, V.T. M., Bairagi, S., Le, N. K., Tran, V. T & Durand-Morat, A. 2023. [Modeling Saltwater Intrusion Risk in the Presence of Uncertainty](https://doi.org/10.1016/j.scitotenv.2023.168140). Science of The Total Environment. 908, 168140. [Preprint version can be accessed here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510877). 
 
 18). Ali, A.M. A., **Tran, D.Q.**, Kovacs, K & Dahlke, H. 2023. [Hydro-economic modeling of managed aquifer recharge in the lower Mississippi](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.13141?af=R). Journal of the American Water Resources Association. 00 (0): 1– 22 
 
