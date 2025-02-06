@@ -14,17 +14,13 @@ text-align: justify}
 
 1). Water demand and the value of water in the US Southeast, with Dr. Tatiana Borisova (USDA-ERS)
 
-2). Effect of conservation easements on surrounding property values, with Natural Resources and Infrastructure Research Team at Florida Legislative Office of Economic and Demographic Research
+2). Economics of managed aquifer recharge in the Mississippi Embayment: An integration of MODFLOW with an economic model, with Dr. Kent Kovacs (University of Arkansas at Little Rock), Drs. Helen E. Dahlke (UC Davis) and Ahmed Ali (California Department of Water Resources), and Dr. Steve Wallander (USDA-ERS)
 
-3). Estimation of regional supply elasticities using remote-sensing data, with Drs. Bruce Babcock & Mehdi Nemati (University of California, Riverside).
+3). The economic impacts of salinity intrusion on coastal rice production: a comprehensive micro-macro analysis, with Dr. Alvaro Durand-Morat (University of Arkansas at Fayetteville), Hyunwoo Kang (Oregon State University), Drs. Bradford Mills and Venkataramana Sridhar (Virginia Tech), Dr. Kieu Le (Field to Market)
 
-4). Economics of managed aquifer recharge in the Mississippi Embayment: An integration of MODFLOW with an economic model, with Dr. Kent Kovacs (University of Arkansas), Drs. Helen E. Dahlke (UC Davis) and Ahmed Ali (California Department of Water Resources), and Dr. Steve Wallander (USDA-ERS)
+4). Regional supply elasticities using remote-sensing data and implications of Sustainable Groundwater Management Act (SGMA) on agricultural production in California, with Drs. Bruce Babcock & Mehdi Nemati (University of California, Riverside).
 
-5). The economic impacts of salinity intrusion on coastal rice production: a comprehensive micro-macro analysis, with Dr. Alvaro Durand-Morat (University of Arkansas), Hyunwoo Kang (Oregon State University), Drs. Bradford Mills and Venkataramana Sridhar (Virginia Tech), Dr. Kieu Le (Field to Market)
+5). An integrated tillage choice dynamics and biophysical modeling framework - impacts of periodic tillage on water quality in Upper Mississippi River Basin, with Lyubov A. Kurkalova (North Carolina A&T State), Jaehak Jeong (Texas A&M) & Philip W. Gassman (Iowa State University)
 
-6). An integrated tillage choice dynamics and biophysical modeling framework - impacts of periodic tillage on water quality in Upper Mississippi River Basin, with Lyubov A. Kurkalova (North Carolina A&T State), Jaehak Jeong (Texas A&M) & Philip W. Gassman (Iowa State University)
-
-7). Modeling field level tillage dynamics with cropland data layer (CDL): an application of Entropy approach to evaluate the effect of shifting production toward corn monoculture on farmer’s tillage choices in Iowa, with Lyubov A. Kurkalova (North Carolina A&T State) and Silvia Secchi (University of Iowa)
-
-8). Solar Energy Evolution and Diffusion, with Dr. Kieu Le (Field to Market)
+6). Modeling field level tillage dynamics with cropland data layer (CDL): an application of Entropy approach to evaluate the effect of shifting production toward corn monoculture on farmer’s tillage choices in Iowa, with Lyubov A. Kurkalova (North Carolina A&T State) and Silvia Secchi (University of Iowa)
 
