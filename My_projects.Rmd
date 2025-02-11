@@ -24,3 +24,5 @@ text-align: justify}
 
 6). Modeling field level tillage dynamics with cropland data layer (CDL): an application of Entropy approach to evaluate the effect of shifting production toward corn monoculture on farmer’s tillage choices in Iowa, with Lyubov A. Kurkalova (North Carolina A&T State) and Silvia Secchi (University of Iowa)
 
+7). Evaluating the economic potential for soil organic carbon sequestration: an integrated modeling approach, with Dr. Kieu Le (Field to Market); Dr. Olaf David (Colorado State University, Fort Collins [CSU]), Drs. Natalja Čerkasova & Jeff Arnold (Texas A&M AgriLife Research); Taci Ugraskan (USDA Agricultural Research Service); Mr. Frank Geter & Mr.Jack Carlson (CSU).          
+
