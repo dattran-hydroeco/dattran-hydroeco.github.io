@@ -1,6 +1,8 @@
 ---
-title: ""
-output: html_document
+title: ''
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 #
