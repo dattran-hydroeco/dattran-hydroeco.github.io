@@ -8,6 +8,8 @@ output:
     number_sections: false
     toc_depth: 3
     #code_folding: hide
+    theme: flatly
+    highlight: tango
 ---
 
 ## 
