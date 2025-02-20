@@ -8,16 +8,15 @@ output:
 
 #
 #
-<!-- <link rel="stylesheet" href="style.css" type="text/css"> -->
 <link rel="stylesheet" href="style.css" type="text/css">
 
 
-<!-- <style> -->
-<!-- body { -->
-<!-- text-align: justify} -->
-<!-- </style> -->
+<style>
+body {
+text-align: justify}
+</style>
 
-
+<hr style="border:1px solid black"> <!-- add black line -->
 ### **Published/Accepted Papers**
 23). **Tran, D.Q**., Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. 2025. [Is It Worth It? Land-fallowing and Saltwater Intrusion Control Under Uncertainty](https://authors.elsevier.com/a/1kYnzB8cd44R0). Science of the Total Environment. 966 (2025), 1-15.
 
