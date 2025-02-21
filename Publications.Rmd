@@ -21,7 +21,7 @@ text-align: justify}
 </style>
 
 
-### **Published/Accepted Papers**
+## **Published/Accepted Papers**
 <hr style="border:1px solid black"> <!-- add black line -->
 
 23). **Tran, D.Q**., Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. 2025. [Is It Worth It? Land-fallowing and Saltwater Intrusion Control Under Uncertainty](https://authors.elsevier.com/a/1kYnzB8cd44R0). *Science of the Total Environment*. 966 (2025), 1-15.
