@@ -12,13 +12,13 @@ output:
 
 #
 #
-<link rel="stylesheet" href="style.css" type="text/css">
+<!-- <link rel="stylesheet" href="style.css" type="text/css"> -->
 
 
-<style>
-body {
-text-align: justify}
-</style>
+<!-- <style> -->
+<!-- body { -->
+<!-- text-align: justify} -->
+<!-- </style> -->
 
 
 ## **Published/Accepted Papers**
