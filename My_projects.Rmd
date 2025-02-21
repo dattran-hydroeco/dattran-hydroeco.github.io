@@ -6,27 +6,27 @@ output:
     highlight: tango
 ---
 
-<link rel="stylesheet" href="style.css" type="text/css">
+<!-- <link rel="stylesheet" href="style.css" type="text/css"> -->
 
-<style>
-body {
-text-align: justify}
-</style>
+<!-- <style> -->
+<!-- body { -->
+<!-- text-align: justify} -->
+<!-- </style> -->
 
 ## **On-going Research Projects**
 <hr style="border:1px solid black"> <!-- add black line -->
 
-1). Water demand and the value of water in the US Southeast, with Dr. Tatiana Borisova (USDA-ERS)
+#### 1). Water demand and the value of water in the US Southeast, with Dr. Tatiana Borisova (USDA-ERS)
 
-2). Economics of managed aquifer recharge in the Mississippi Embayment: An integration of MODFLOW with an economic model, with Dr. Kent Kovacs (University of Arkansas at Little Rock), Drs. Helen E. Dahlke (UC Davis) and Ahmed Ali (California Department of Water Resources), and Dr. Steve Wallander (USDA-ERS)
+#### 2). Economics of managed aquifer recharge in the Mississippi Embayment: An integration of MODFLOW with an economic model, with Dr. Kent Kovacs (University of Arkansas at Little Rock), Drs. Helen E. Dahlke (UC Davis) and Ahmed Ali (California Department of Water Resources), and Dr. Steve Wallander (USDA-ERS)
 
-3). The economic impacts of salinity intrusion on coastal rice production: a comprehensive micro-macro analysis, with Dr. Alvaro Durand-Morat (University of Arkansas at Fayetteville), Hyunwoo Kang (Oregon State University), Drs. Bradford Mills and Venkataramana Sridhar (Virginia Tech), Dr. Kieu Le (Field to Market)
+#### 3). The economic impacts of salinity intrusion on coastal rice production: a comprehensive micro-macro analysis, with Dr. Alvaro Durand-Morat (University of Arkansas at Fayetteville), Hyunwoo Kang (Oregon State University), Drs. Bradford Mills and Venkataramana Sridhar (Virginia Tech), Dr. Kieu Le (Field to Market)
 
-4). Regional supply elasticities using remote-sensing data and implications of Sustainable Groundwater Management Act (SGMA) on agricultural production in California, with Drs. Bruce Babcock & Mehdi Nemati (University of California, Riverside).
+#### 4). Regional supply elasticities using remote-sensing data and implications of Sustainable Groundwater Management Act (SGMA) on agricultural production in California, with Drs. Bruce Babcock & Mehdi Nemati (University of California, Riverside).
 
-5). An integrated tillage choice dynamics and biophysical modeling framework - impacts of periodic tillage on water quality in Upper Mississippi River Basin, with Lyubov A. Kurkalova (North Carolina A&T State), Jaehak Jeong (Texas A&M) & Philip W. Gassman (Iowa State University)
+#### 5). An integrated tillage choice dynamics and biophysical modeling framework - impacts of periodic tillage on water quality in Upper Mississippi River Basin, with Lyubov A. Kurkalova (North Carolina A&T State), Jaehak Jeong (Texas A&M) & Philip W. Gassman (Iowa State University)
 
-6). Modeling field level tillage dynamics with cropland data layer (CDL): an application of Entropy approach to evaluate the effect of shifting production toward corn monoculture on farmer’s tillage choices in Iowa, with Lyubov A. Kurkalova (North Carolina A&T State) and Silvia Secchi (University of Iowa)
+#### 6). Modeling field level tillage dynamics with cropland data layer (CDL): an application of Entropy approach to evaluate the effect of shifting production toward corn monoculture on farmer’s tillage choices in Iowa, with Lyubov A. Kurkalova (North Carolina A&T State) and Silvia Secchi (University of Iowa)
 
-7). Evaluating the economic potential for soil organic carbon sequestration: an integrated modeling approach, with Dr. Kieu Le (Field to Market); Dr. Olaf David (Colorado State University, Fort Collins [CSU]), Drs. Natalja Čerkasova & Jeff Arnold (Texas A&M AgriLife Research); Mr.Taci Ugraskan (USDA Agricultural Research Service); Mr. Frank Geter & Mr. Jack Carlson (CSU).          
+#### 7). Evaluating the economic potential for soil organic carbon sequestration: an integrated modeling approach, with Dr. Kieu Le (Field to Market); Dr. Olaf David (Colorado State University, Fort Collins [CSU]), Drs. Natalja Čerkasova & Jeff Arnold (Texas A&M AgriLife Research); Mr.Taci Ugraskan (USDA Agricultural Research Service); Mr. Frank Geter & Mr. Jack Carlson (CSU).          
 
