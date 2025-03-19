@@ -71,7 +71,7 @@ text-align: justify}
 
 #### 2). Le, K. N ., Manoj K. J., Jeong, J., Gassman, P, W., Reyes, M, R., Doro, L., **Tran, D.Q.** & Hok, L. 2018. [Evaluation of long-term SOC and crop productivity within conservation systems using GFDL CM2.1 and EPIC](https://doi.org/10.3390/su10082665). *Sustainability*, 10 (2665), 1-18. 
 
-#### 1). Kurkalova, L.A. & **Tran, D.Q.** 2017. [Is the use of no-till continuous or rotational? Quantifying tillage dynamics from time-ordered spatially aggregated data](https://www.jswconline.org/content/72/2/131). *Journal of Soil and Water Conservation*, 72(2), 131-138.
+#### 1). Kurkalova, L.A. & **Tran, D.Q.** 2017. [Is the use of no-till continuous or rotational? Quantifying tillage dynamics from time-ordered spatially aggregated data](https://doi.org/10.2489/jswc.72.2.131). *Journal of Soil and Water Conservation*, 72(2), 131-138.
 
 
 ### **Papers Under Review and Preparation**
