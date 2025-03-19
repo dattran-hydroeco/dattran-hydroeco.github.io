@@ -63,7 +63,7 @@ text-align: justify}
 
 #### 6). **Tran, D.Q.** & Kurkalova, L.A. 2019. [Persistence in tillage decisions: aggregate data analysis](https://doi.org/10.1016/j.iswcr.2019.03.002). *International Soil and Water Conservation Research*, 7 (2), 109-118.
 
-#### 5). Huynh, V. T. M., Avtar, M. R., Kumar, P., **Tran, D.Q.**, Tran, T. V., Behra, H. C & Masaaki, K. 2019. [Groundwater Quality Assessment using Fuzzy-AHP in An Giang province of Vietnam](https://doi.org/10.1016/j.iswcr.2019.03.002). *Geosciences*, 9 (330), 1-23.
+#### 5). Huynh, V. T. M., Avtar, M. R., Kumar, P., **Tran, D.Q.**, Tran, T. V., Behra, H. C & Masaaki, K. 2019. [Groundwater Quality Assessment using Fuzzy-AHP in An Giang province of Vietnam](https://doi.org/10.3390/geosciences9080330). *Geosciences*, 9 (330), 1-23.
 
 #### 4). Huynh, V. T. M., Masaaki, K., Tran, T. V., **Tran, D.Q.**, Le, K. N., Avtar, M. R & Osaki, M. 2019. [Effects of Multi-Dike Protection Systems on Surface Water Quality in the Vietnamese Mekong Delta](https://doi.org/10.3390/w11051010). *Water*, 11 (1010), 1-23.
 
