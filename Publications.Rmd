@@ -27,7 +27,7 @@ text-align: justify}
 
 #### 24). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Journal of the Agricultural and Applied Economics Association (JAAEA)*. **Accepted**.
 
-#### 23). **Tran, D.Q**., Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. 2025. [Is it worth It? land-fallowing and saltwater intrusion control under uncertainty](https://authors.elsevier.com/a/1kYnzB8cd44R0). *Science of the Total Environment*. 966 (2025), 1-15.
+#### 23). **Tran, D.Q**., Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. 2025. [Is it worth It? land-fallowing and saltwater intrusion control under uncertainty](https://doi.org/10.1016/j.scitotenv.2025.178711). *Science of the Total Environment*. 966 (2025), 1-15.
 
 #### 22). **Tran, D. Q**. 2024. [Annual assessment of Florida’s water resources: supply and demand. In: 2024 Annual assessment of Florida's water resources and conservation lands](http://edr.state.fl.us/Content/natural-resources/2024_AnnualAssessmentWaterResources_Chapter3.pdf). *Office of Economic and Demographic Research, Florida Legislature*.  
 
@@ -77,7 +77,7 @@ text-align: justify}
 ### **Papers Under Review and Preparation**
 <hr style="border:1px solid black"> <!-- add black line -->
 
-#### 9). **Tran, D.Q.** & Le, N. K.  Sea-level rise and saltwater intrusion: economic estimates of impacts of nature-based mitigation policies under uncertainty. *Under review*.
+#### 9). **Tran, D.Q.** & Le, N. K.  Sea-level rise and saltwater intrusion: economic estimates of impacts of nature-based mitigation policies under uncertainty. *Revise-resubmit*.
 
 #### 8). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *Under review*.
 
