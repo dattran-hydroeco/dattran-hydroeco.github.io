@@ -30,5 +30,6 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 <!-- # Managed Aquifer Recharge -->
 
-
+<!-- From afar to decision-makers: data-driven research to support sustainable agriculture research and education in an increased water scarcity world -->
+<!-- https://teams.issibern.ch/asianmega-deltas/ -->
 
