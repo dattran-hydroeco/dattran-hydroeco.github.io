@@ -25,6 +25,8 @@ output:
 ## **Media coverage**
 <hr style="border:1px solid black"> <!-- add black line -->
 
+#### Climate, Featured, Food, Global of the Columnbia Journalism School ([Climate Adaptation Comes at a Cost for Vietnam’s Rice Basket](https://columbianewsservice.com/2025/04/10/climate-adaptation-comes-at-a-cost-for-vietnams-rice-basket/?fbclid=IwY2xjawJkwPNleHRuA2FlbQIxMQABHjqq20pFlY4792lz8aOZD7Goj-WNNiuZ6KeRzGm1NoThgRllDuIkgROxkP1C_aem_VlWeEqsY5XEaziTkFsf2cg))
+
 #### UCR News, PHYS.ORG, and THE HILL ([Forced water-use cuts made California more water-wise](https://thehill.com/policy/equilibrium-sustainability/3971061-forced-conservation-measures-made-californians-more-water-wise-study/))
 
 
