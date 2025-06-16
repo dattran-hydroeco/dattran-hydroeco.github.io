@@ -78,11 +78,11 @@ text-align: justify}
 ### **Papers Under Review and Preparation**
 <hr style="border:1px solid black"> <!-- add black line -->
 
-#### 8). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. *Under review*.
+#### 8). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. **Under review**.
 
-#### 7). **Tran, D.Q** & Le, N. K. Groundwater depletion and economic value of managed aquifer recharge in the Mississippi River Valley alluvial aquifer. *Under review*.
+#### 7). **Tran, D.Q** & Le, N. K. Groundwater depletion and economic value of managed aquifer recharge in the Mississippi River Valley alluvial aquifer. **Under review**.
 
-#### 6). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. *Under review*. [Preprint version available here](https://spp.ucr.edu/document/estimation-supply-elasticities-non-exchange-traded-commodities-full-paper).
+#### 6). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. **Under review**. [Preprint version available here](https://spp.ucr.edu/document/estimation-supply-elasticities-non-exchange-traded-commodities-full-paper).
 
 #### 5). **Tran, D. Q.** & Borisova, T. Quantifying effects of climate extremes and socioeconomic dynamics on future water demand and water supply investment: a hybrid machine learning approach. *In preparation*.
 
