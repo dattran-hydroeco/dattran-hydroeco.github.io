@@ -24,11 +24,13 @@ text-align: justify}
 
 ## **Published/Accepted Papers**
 <hr style="border:1px solid black"> <!-- add black line -->
+#### 26). **Tran, D. Q.** & Le, K. N. (2025). The costs of nature-based solutions for controlling saltwater intrusion. *Global Water Forum*. **Forthcoming**.  
+
 #### 25). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Journal of the Agricultural and Applied Economics Association (JAAEA)*. **Accepted**.
 
-#### 24). **Tran, D.Q.** & Le, N. K. 2025. [Sea-level rise and saltwater intrusion: economic estimates of impacts of nature-based mitigation policies under uncertainty](https://www.mdpi.com/2073-4441/17/9/1355). Water. 17 (1355), 1-38.
+#### 24). **Tran, D.Q.** & Le, K. N. 2025. [Sea-level rise and saltwater intrusion: economic estimates of impacts of nature-based mitigation policies under uncertainty](https://www.mdpi.com/2073-4441/17/9/1355). Water. 17 (1355), 1-38.
 
-#### 23). **Tran, D.Q**., Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. 2025. [Is it worth It? land-fallowing and saltwater intrusion control under uncertainty](https://doi.org/10.1016/j.scitotenv.2025.178711). *Science of the Total Environment*. 966 (2025), 1-15.
+#### 23). **Tran, D.Q**., Le, K. N., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T. 2025. [Is it worth It? land-fallowing and saltwater intrusion control under uncertainty](https://doi.org/10.1016/j.scitotenv.2025.178711). *Science of the Total Environment*. 966 (2025), 1-15.
 
 #### 22). **Tran, D. Q**. 2024. [Annual assessment of Florida’s water resources: supply and demand. In: 2024 Annual assessment of Florida's water resources and conservation lands](http://edr.state.fl.us/Content/natural-resources/2024_AnnualAssessmentWaterResources_Chapter3.pdf). *Office of Economic and Demographic Research, Florida Legislature*.  
 
