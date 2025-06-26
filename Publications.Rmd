@@ -24,9 +24,10 @@ text-align: justify}
 
 ## **Published/Accepted Papers**
 <hr style="border:1px solid black"> <!-- add black line -->
-#### 26). **Tran, D. Q.** & Le, K. N. (2025). The costs of nature-based solutions for controlling saltwater intrusion. *Global Water Forum*. **Forthcoming**.  
 
-#### 25). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Journal of the Agricultural and Applied Economics Association (JAAEA)*. **Accepted**.
+#### 26). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Journal of the Agricultural and Applied Economics Association (JAAEA)*. **Accepted**.
+
+#### 25). **Tran, D. Q.** & Le, K. N. (2025). The costs of nature-based solutions for controlling saltwater intrusion. *Global Water Forum*. **Forthcoming**.  
 
 #### 24). **Tran, D.Q.** & Le, K. N. 2025. [Sea-level rise and saltwater intrusion: economic estimates of impacts of nature-based mitigation policies under uncertainty](https://www.mdpi.com/2073-4441/17/9/1355). Water. 17 (1355), 1-38.
 
