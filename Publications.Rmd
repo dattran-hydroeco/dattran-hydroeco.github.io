@@ -25,7 +25,9 @@ text-align: justify}
 ## **Published/Accepted Papers**
 <hr style="border:1px solid black"> <!-- add black line -->
 
-#### 26). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Journal of the Agricultural and Applied Economics Association (JAAEA)*. **Accepted**.
+#### 27). **Tran, D.Q.** & Kurkalova, L.A. Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach. *Journal of the Agricultural and Applied Economics Association (JAAEA)*. **In Production**.
+
+#### 26). **Tran, D. Q**. 2025. [Annual assessment of Florida’s water resources: supply and demand. In: 2025 Annual assessment of Florida's water resources and conservation lands](https://edr.state.fl.us/Content/natural-resources/2025_AnnualAssessmentWaterResources_Chapter3.pdf). *Office of Economic and Demographic Research, Florida Legislature*.  
 
 #### 25). **Tran, D. Q.** & Le, K. N. (2025). [The costs of nature-based solutions for controlling saltwater intrusion](https://www.globalwaterforum.org/2025/07/10/the-costs-of-nature-based-solutions-for-controlling-saltwater-intrusion/). *Global Water Forum*. 
 
