@@ -6,6 +6,6 @@ output:
     highlight: tango
 ---
 
-#### [*Link to my CV*](https://aaea.execinc.com/edibo/Uploads/Profile_25_10_04_15_47_38_83__207_126_1_7_0.pdf)
+#### [*Link to my CV*](https://aaea.execinc.com/edibo/Uploads/Profile_25_10_04_20_32_14_11__207_126_1_7_0.pdf)
 #### Last updated: August, 2025
 
