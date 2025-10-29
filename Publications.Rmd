@@ -18,8 +18,8 @@ output:
 
 <style>
 body {
-text-align: justify
-font-size: 20pt
+text-align: left
+font-size: 12pt
 }
 </style>
 
