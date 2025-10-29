@@ -12,6 +12,18 @@ output:
     highlight: tango
 ---
 
+<link rel="stylesheet" href="style.css" type="text/css">
+
+
+<style>
+body {
+text-align: left
+font-size: 12pt
+}
+</style>
+
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```

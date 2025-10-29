@@ -6,6 +6,17 @@ output:
     highlight: tango
 ---
 
+<link rel="stylesheet" href="style.css" type="text/css">
+
+
+<style>
+body {
+text-align: left
+font-size: 12pt
+}
+</style>
+
+
 #### [*Link to my CV*](https://aaea.execinc.com/edibo/Uploads/Profile_25_10_12_11_02_25_23__207_126_1_7_0.pdf)
 #### Last updated: August, 2025
 
