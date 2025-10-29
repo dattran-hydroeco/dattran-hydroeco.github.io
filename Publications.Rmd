@@ -83,15 +83,13 @@ text-align: justify}
 ### **Papers Under Review and Preparation**
 <hr style="border:1px solid black"> <!-- add black line -->
 
-#### 8). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. **Under review**.
+#### 7). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. **Under review**.
 
-#### 7). **Tran, D.Q** & Le, N. K. Groundwater depletion and economic value of Managed Aquifer Recharge in the Mississippi River Valley alluvial aquifer. **Under review**.
+#### 6). **Tran, D.Q** & Le, N. K. Valuing water in the bank: How aquifer characteristics determine the economic value of Managed Aquifer Recharger. **Under review**.
 
-#### 6). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. **Under review**. [Preprint version available here](https://spp.ucr.edu/document/estimation-supply-elasticities-non-exchange-traded-commodities-full-paper).
+#### 5). Babcock, B., Nemati, M & **Tran, D. Q**. Estimation of supply elasticities for non-exchange traded commodities. **Under review**. [Preprint version available here](https://spp.ucr.edu/document/estimation-supply-elasticities-non-exchange-traded-commodities-full-paper).
 
-#### 5). **Tran, D. Q.** & Borisova, T. Quantifying effects of climate extremes and socioeconomic dynamics on future water demand and water supply investment: a hybrid machine learning approach. *In preparation*.
-
-#### 4). **Tran, D.Q.**, Le, N. K., Durand-Morat, A., Nguyen, N.T. N., Bairagi, S., Huynh, V.T. M & Tran, V. T.  Simulating the impact of water demand management options on saltwater intrusion in a mega-delta under uncertainty. *In preparation*.
+#### 4). **Tran, D. Q.** & Borisova, T. Quantifying effects of climate extremes and socioeconomic dynamics on future water demand and water supply investment: a hybrid machine learning approach. *In preparation*.
 
 #### 3). Nemati, M., **Tran, D.Q** & Schwabe, K. Effect of water-reduction mandate during drought on hourly residential water use. *In preparation*.
 
