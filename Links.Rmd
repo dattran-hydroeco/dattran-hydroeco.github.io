@@ -12,6 +12,12 @@ output:
     highlight: tango
 ---
 
+<link rel="stylesheet" href="style.css" type="text/css">
+
+<style>
+body {
+text-align: justify}
+</style>
 
 
 ## 

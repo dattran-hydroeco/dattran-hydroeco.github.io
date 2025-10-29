@@ -4,6 +4,7 @@ output:
   html_document:
     theme: flatly
     highlight: tango
+    css: styles.css
     
 # output:
 #   cleanrmd::html_document_clean:
@@ -24,6 +25,10 @@ text-align: justify}
 
 ## **Published/Accepted Papers**
 <hr style="border:1px solid black"> <!-- add black line -->
+
+<!-- ### <a href="https://uncw.edu" style="background-color: none; color: blue; text-decoration: none;">UNCW Website</a> -->
+<!-- #### 27). **Tran, D.Q.** & Kurkalova, L.A. 2025. <a href="https://doi.org/10.1002/jaa2.70022" style="background-color: none; color: blue; text-decoration: none;">Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach</a>. *Journal of the Agricultural and Applied Economics Association (JAAEA)*. 00 (00), 1-13. -->
+
 
 #### 27). **Tran, D.Q.** & Kurkalova, L.A. 2025. [Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach](https://doi.org/10.1002/jaa2.70022). *Journal of the Agricultural and Applied Economics Association (JAAEA)*. 00 (00), 1-13.
 
