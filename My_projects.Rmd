@@ -6,12 +6,12 @@ output:
     highlight: tango
 ---
 
-<!-- <link rel="stylesheet" href="style.css" type="text/css"> -->
+<link rel="stylesheet" href="style.css" type="text/css">
 
-<!-- <style> -->
-<!-- body { -->
-<!-- text-align: justify} -->
-<!-- </style> -->
+<style>
+body {
+text-align: justify}
+</style>
 
 ## **On-going Research Projects**
 <hr style="border:1px solid black"> <!-- add black line -->
