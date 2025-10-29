@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 60%;
+    font-size: 13pt;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -46,16 +47,4 @@ img {
   width: 400px;
   display: block;
   margin: 0 auto;
-}
-
-.highlight-link {
-  background-color: #fff3b0;
-  color: #003366;
-  font-weight: bold;
-  padding: 2px 4px;
-  border-radius: 4px;
-  text-decoration: none;
-}
-.highlight-link:hover {
-  background-color: #ffe066;
 }

@@ -18,7 +18,9 @@ output:
 
 <style>
 body {
-text-align: justify}
+text-align: justify
+font-size: 20pt
+}
 </style>
 
 
@@ -30,7 +32,7 @@ text-align: justify}
 <!-- #### 27). **Tran, D.Q.** & Kurkalova, L.A. 2025. <a href="https://doi.org/10.1002/jaa2.70022" style="background-color: none; color: blue; text-decoration: none;">Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach</a>. *Journal of the Agricultural and Applied Economics Association (JAAEA)*. 00 (00), 1-13. -->
 
 
-#### 27). **Tran, D.Q.** & Kurkalova, L.A. 2025. [Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach](https://doi.org/10.1002/jaa2.70022). *Journal of the Agricultural and Applied Economics Association (JAAEA)*. 00 (00), 1-13.
+#### 27). **Tran, D.Q.** & Kurkalova, L.A. 2025. [Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach](https://doi.org/10.1002/jaa2.70022). *Journal of the Agricultural and Applied Economics Association (JAAEA)*. 00 (00), 1-13. 
 
 #### 26). **Tran, D. Q**. 2025. [Annual assessment of Florida’s water resources: supply and demand. In: 2025 Annual assessment of Florida's water resources and conservation lands](https://edr.state.fl.us/Content/natural-resources/2025_AnnualAssessmentWaterResources_Chapter3.pdf). *Office of Economic and Demographic Research, Florida Legislature*.  
 
