@@ -90,7 +90,7 @@ font-size: 14pt
 ### **Papers Under Review and Preparation**
 <hr style="border:1px solid black"> <!-- add black line -->
 
-#### 7). **Tran, D.Q** & Le, N. K. Valuing water in the bank: How aquifer characteristics determine the economic value of Managed Aquifer Recharger. **Revise-resubmit**.
+#### 7). **Tran, D.Q** & Le, N. K. Valuing water in the bank: How aquifer characteristics determine the economic value of Managed Aquifer Recharger. **Groundwater for Sustainable Development**. **Revise-resubmit**.
 
 #### 6). **Tran, D.Q.** & Kurkalova, L.A. Cost of continuous conservation tillage: an application of Network Flow. **Under review**.
 
