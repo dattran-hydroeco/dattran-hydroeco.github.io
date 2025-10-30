@@ -10,7 +10,9 @@ output:
 
 <style>
 body {
-text-align: left}
+text-align: left
+font-size: 14pt
+}
 </style>
 
 ## **On-going Research Projects**
