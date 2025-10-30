@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-size: 14pt;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -21,9 +20,15 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+h3 {
+    font-size: 1.2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -47,4 +52,8 @@ img {
   width: 400px;
   display: block;
   margin: 0 auto;
+}
+
+.main-container {
+  max-width: 100% !important;
 }

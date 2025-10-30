@@ -4,6 +4,7 @@ output:
   html_document:
     theme: flatly
     highlight: tango
+    css: style.css
 ---
 
 #
@@ -23,6 +24,14 @@ text-align: left}
 <!-- font-style: italic; color: black -->
 <!-- font-family: times new roman} -->
 <!-- </style> -->
+
+<style>
+.main-container {
+  max-width: 100% !important;
+  margin: auto;
+}
+</style>
+
 
 
 Hello, this is Dat. Currently, I work as an economist in the Florida Legislature, Office of Economic and Demographic Research (EDR). Before joining EDR, I was a post-doc at the University of California, Riverside (2020-2021), the University of Arkansas, Fayetteville (2018-2020), and the North Carolina A&T State University (2017).
