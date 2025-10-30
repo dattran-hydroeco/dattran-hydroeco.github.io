@@ -26,6 +26,7 @@ navbar:
     - text: "Google Scholar"
       icon: fa-google
       href: https://scholar.google.com/citations?hl=en&user=auA2Qj8AAAAJ&view_op=list_works&sortby=pubdate 
+
 # output:
 #   html_document:
 #     theme: paper
