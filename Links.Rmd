@@ -24,11 +24,14 @@ font-size: 14pt
 ## Florida's Water Use Projection (2023 Ed)
 <hr style="border:1px solid black"> <!-- add black line -->
 
-#### [Here is a simple, pilot, interactive web-based showing Florida's water use projection for 2020-2040](https://dattran-hydroeco.shinyapps.io/FL_WR_2023/). The app was built using Shiny package in [R](https://www.r-project.org/about.html). The projection comes from the Florida Department of Environmental Protection (DEP). [More information on this projection can be found here](http://edr.state.fl.us/Content/natural-resources/2024_AnnualAssessmentWaterResources_Chapter3.pdf) or [please contact me](https://dattran-hydroeco.github.io/index.html)
+<!-- #### [Here is a simple, pilot, interactive web-based showing Florida's water use projection for 2020-2040](https://dattran-hydroeco.shinyapps.io/FL_WR_2023/). The app was built using Shiny package in [R](https://www.r-project.org/about.html). The projection comes from the Florida Department of Environmental Protection (DEP). [More information on this projection can be found here](http://edr.state.fl.us/Content/natural-resources/2024_AnnualAssessmentWaterResources_Chapter3.pdf) or [please contact me](https://dattran-hydroeco.github.io/index.html) -->
+
+#### [Here is an interactive web-based Economic Value of Managed Aquifer Recharge (MAR) scenario-based policy assessment tool](https://dattran-hydroeco.shinyapps.io/Shadow_Value_MAR-app/). The app was built using Shiny package in [R](https://www.r-project.org/about.html). The surrogate model underlying this tool is derived from an under-review study that quantifies the economic value of managed aquifer recharge (MAR). [More information on this model, please contact me](https://dattran-hydroeco.github.io/index.html)
+
 
 ## Florida's Water Use Projection: A Machine Learning Approach
 <hr style="border:1px solid black"> <!-- add black line -->
-#### This approach integrates a K-Means Clustering and Multiple Linear Regression to forecast sectoral water use for Florida during 2020-2040. [More information on this projection can be found here](http://edr.state.fl.us/Content/natural-resources/2024_AnnualAssessmentWaterResources_Chapter3.pdf) or [please contact me](https://dattran-hydroeco.github.io/index.html)
+#### This approach integrates a K-Means Clustering and Multiple Linear Regression to forecast sectoral water use for Florida during 2025-2045. [More information on this projection can be found here](https://edr.state.fl.us/Content/natural-resources/2025_AnnualAssessmentWaterResources_Chapter3.pdf) or [please contact me](https://dattran-hydroeco.github.io/index.html)
 
 <!-- ### R and R-Studio -->
 
