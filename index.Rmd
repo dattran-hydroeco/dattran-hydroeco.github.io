@@ -22,7 +22,7 @@ output:
 body {
   text-align: left;
   line-height: 1.7;
-  font-size: 17px;
+  font-size: 14px;
 }
 
 .main-container {
@@ -55,7 +55,7 @@ I am an **interdisciplinary scholar** currently serving as a Research Scientist 
 
 **My research** lies at the **intersection of hydrology, economics, and environmental science, with a focus on coupled human–water systems**. I study how human decision-making and policy incentives interact with hydrologic and biophysical processes, particularly under water scarcity. **My work integrates process-based hydrologic modeling with economic optimization and empirical analysis to inform sustainable water resource management**.
 
-My research interests include **groundwater and water resource management, technology adoption, and hydro-biophysical–economic system interactions**, with applications to agriculture and the **Food–Water–Energy Nexus**. With the increasing availability of large geo-referenced datasets, I apply **machine learning and data analytics** alongside process-based and statistical models to support research on the Food–Water–Energy Nexus.
+My research interests include **groundwater and water resource management, technology adoption, and hydro-biophysical–economic system interactions**, with applications to agriculture and the **Food–Water–Energy Nexus**. With the increasing availability of large geo-referenced datasets, I also apply **machine learning and data analytics** alongside process-based and statistical models to support research on the Food–Water–Energy Nexus.
 
 I am **deeply committed to teaching and mentoring** and to educating the next generation of environmental scientists and water resources professionals. In my teaching, I emphasize **hands-on learning, modeling-based problem solving, and applied water management challenges**.
 
