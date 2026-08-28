@@ -31,6 +31,7 @@ font-size: 14pt
 <!-- ### <a href="https://uncw.edu" style="background-color: none; color: blue; text-decoration: none;">UNCW Website</a> -->
 <!-- #### 27). **Tran, D.Q.** & Kurkalova, L.A. 2025. <a href="https://doi.org/10.1002/jaa2.70022" style="background-color: none; color: blue; text-decoration: none;">Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach</a>. *Journal of the Agricultural and Applied Economics Association (JAAEA)*. 00 (00), 1-13. -->
 
+#### 28). **Tran, D. Q.** & Le, K. N. (2026). [Coupled groundwater-economic modeling of spatial variation in managed aquifer recharge value](https://rdcu.be/fCpbP). **Sustainable Water Resources Management**. (2026), 12-86. 
 
 #### 27). **Tran, D.Q.** & Kurkalova, L.A. 2025. [Estimation of the continuity of tillage choices with aggregate and incomplete data: An application of Entropy approach](https://doi.org/10.1002/jaa2.70022). **Journal of the Agricultural and Applied Economics Association (JAAEA)**. 00 (00), 1-13. 
 
